@@ -1,0 +1,7 @@
+- Context of nature-society interactions in which particular [[actor]]s, operating in particular  institutional ([[institutions]]) structures, make choices about using particular resources to achieve their particular goals.
+- Action situations are the reciprocal decisions that various actors and/or groups are able to make and the compound results of those choices. Situations may be physical or institutional.
+- An action situation is made up of a set of communicating actors or [[group]]s, their positions or [[role]]s, their choices, information, and the outcomes attached to their choices. Often, multiple situations together affect [[natural resources]] [[governance]], forming action situation networks. #card #definition
+	- Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. Annual Review of Environment and Resources, 45(1), 331–386. https://doi.org/10.1146/annurev-environ-012420-043621 #clarkSustainabilityScienceSynthesis2020
+	- Seminar: #definitionsInSustainabilityScience
+	- Theme: #introduction
+	- Métier: #sustainabilityScienceAndSystemsTheory

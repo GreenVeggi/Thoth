@@ -1,0 +1,5 @@
+- Change that occurs when the targets of [[social influence]] publicly accept the [[influence]]r’s position but privately maintain their original beliefs. #card #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- Seminar: #influence
+	- Theme: #influenceAndPower
+	- Métier: #groupDecisionMakingAndLeadershipForSustainability
