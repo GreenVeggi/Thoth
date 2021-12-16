@@ -1,0 +1,5 @@
+- Counterintuitive tendency for a [[group]] to decide on a course of action that none of the members of the group individually endorses, resulting from the group’s failure to recognise and manage its agreement on key issues (identified by Jerry Harvey). #card #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- Seminar: decision making. #decisionMaking
+	- Theme: decision making.
+	- Métier: group decision making and leadership for sustainability. #groupDecisionMakingAndLeadershipForSustainability
