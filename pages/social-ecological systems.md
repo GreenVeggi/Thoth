@@ -3,4 +3,6 @@
 	  #cherkasskiiSystemEpidemicProcess1988
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+- System of people and nature.
 	-
