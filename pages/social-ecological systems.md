@@ -1,0 +1,1 @@
+- System consisting of two interacting subsystems: the biological (epidemiological ecosystem) and the social (social and economic conditions of life of the society) subsystems where the biological subsystem plays the role of the governed object and the social acts as the internal regulator of these interactions.
