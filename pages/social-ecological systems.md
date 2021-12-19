@@ -2,4 +2,5 @@
 	- Cherkasskii B. L. (1988). The system of the epidemic process. Journal of hygiene, epidemiology, microbiology, and immunology, 32(3), 321–328. 
 	  #cherkasskiiSystemEpidemicProcess1988
 	- Seminar: #historyOfSocialecologicalSystems
+	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	-
