@@ -1,0 +1,2 @@
+- Rules, [[norms]], rights, culture, and widely shared beliefs that shape the [[behaviour]] of social [[actor]]s in their relationships with one another and with nature.
+-
