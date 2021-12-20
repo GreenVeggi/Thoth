@@ -1,1 +1,1 @@
-- Response to potentially disruptive change that seeks to limit damage or seize opportunities for improvement to a [[development pathway]] within a [[regime]] (contrast with transformations, resilience).
+- Response to potentially disruptive change that seeks to limit damage or seize opportunities for improvement to a [[development pathway]] within a [[regime]] (contrast with [[transformation]]s, [[resilience]]).
