@@ -1,0 +1,1 @@
+- Psychological state that occurs when subordinates in an organised status hierarchy experience such a marked reduction in autonomy that they are unable to resist authorities’ orders (proposed by Stanley Milgram).

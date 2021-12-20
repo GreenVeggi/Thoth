@@ -1,4 +1,4 @@
-- Person or thing that takes an active [[role]] or produces a specified effect.
+- Person or thing that takes an active [[role]] or produces a specified effect. #definition
 	- seminar #definitionsInSustainabilityScience
 	- theme #introduction
 	- métier #sustainabilityScienceAndSystemsTheory
