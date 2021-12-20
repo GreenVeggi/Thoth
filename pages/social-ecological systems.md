@@ -30,4 +30,11 @@
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - [[complex adaptive system]]s with key characteristics such as:
-	- integrated biogeophysical and socio-cultural processes, (2) self-organisation, (3) nonlinear and unpredictable dynamics, (4) feedback between social and ecological processes, (5) changing behaviour in space (spatial thresholds) and time (time thresholds), (6) legacy behavioural effects with outcomes at very different time scales, (7) emergent properties, and (8) the impossibility to extrapolate the information from one SES to another.
+	- integrated biogeophysical and socio-cultural processes,
+	- self-organisation,
+	- nonlinear and unpredictable dynamics,
+	- feedback between social and ecological processes,
+	- changing behaviour in space (spatial thresholds) and time (time thresholds),
+	- legacy behavioural effects with outcomes at very different time scales,
+	- emergent properties, and
+	- the impossibility to extrapolate the information from one SES to another.
