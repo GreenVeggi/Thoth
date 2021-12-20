@@ -5,4 +5,6 @@
 	- Theme: #sustainabilitySolutions
 	- Métier: #sustainabilityscienceandsystemstheory
 - Basic set of beliefs that guide action.
-	- Guba, E. G. (Ed.). (1990). The paradigm dialog. Sage Publications, Inc.
+	- Guba, E. G. (Ed.). (1990). The paradigm dialog. Sage Publications, Inc. #gubaAlternativeParadigmDialog1990
+	- Seminar: #introduction
+	- Theme:
