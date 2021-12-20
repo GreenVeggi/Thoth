@@ -1,4 +1,4 @@
-- In a literature review, a brief review of the literature (typically in a short paragraph) that summarises major elements to enable a reader to understand the basic features of the article. #card #definition
+- In a literature review, a brief review of the literature (typically in a short paragraph) that summarises major elements to enable a reader to understand the basic features of the article. #definition
 	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE. #creswellResearchDesignQualitative2018
 	- Seminar: introduction. #introduction
 	- Theme: research design. #researchDesign
