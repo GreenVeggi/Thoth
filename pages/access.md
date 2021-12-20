@@ -4,6 +4,6 @@
 	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - Right to enter a defined physical area and enjoy nonsubtractive benefits.
-	-
+	- Colding, J. (2021). Resilience Management of Natural Resources and Ecosystems.
 	- seminar: #resilienceManagementOfNaturalResourcesAndEcosystems
 	-
