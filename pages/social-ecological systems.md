@@ -24,4 +24,5 @@
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-- m
+- System that includes the entities of common-pool resource, resource users, public infrastructure, infrastructure providers, institutional rules, external environment and the links between these entities.
+-
