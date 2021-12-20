@@ -14,4 +14,4 @@
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-- m
+- Interdependent and linked systems of people and nature that are nested across scales.
