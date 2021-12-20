@@ -18,4 +18,11 @@
 	- seminar #roleOfInstitutionsInNaturalResourceManagement
 	- theme and métier #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- formal
+		- legal rules
+		- written down
+		- enforced by third-party authorities
+		- costly to enforce
+		- political rules, economic rules, contracts, laws, constitutions
+	- informal
+		- [[norms]] and conventions
 		-
