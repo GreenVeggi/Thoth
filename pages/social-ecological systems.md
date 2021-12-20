@@ -38,3 +38,5 @@
 	- legacy behavioural effects with outcomes at very different time scales,
 	- emergent properties, and
 	- the impossibility to extrapolate the information from one SES to another.
+	- del Mar Delgado-Serrano, M., Oteros-Rozas, E., Vanwildemeersch, P., Ortíz-Guerrero, C., London, S., & Escalante, R. (2015). Local perceptions on social-ecological dynamics in Latin America in three community-based natural resource management systems. Ecology and Society, 20(4). http://www.jstor.org/stable/26270288
+- m
