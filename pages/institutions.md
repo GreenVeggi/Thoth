@@ -13,7 +13,9 @@
 	- North, D. (1990). Institutions, Institutional Change and Economic Performance (Political Economy of Institutions and Decisions). Cambridge: Cambridge University Press. doi:10.1017/CBO97805118086781 #northInstitutionalChangeEconomic1990
 	- seminar #roleOfInstitutionsInNaturalResourceManagement
 	- theme and métier #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
-- Rules and norms of society and their enforcement characteristics; regulatory structures for use and management of natural systems.
+- Rules and [[norms]] of society and their enforcement characteristics; regulatory structures for use and management of natural systems.
 	- Colding, J. (20 December 2021). Role of Institutions in Natural Resource Management. Högskolan i Gävle (Zoom). #coldingRoleInstitutionsManagementlec2021
 	- seminar #roleOfInstitutionsInNaturalResourceManagement
 	- theme and métier #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- formal
+		-
