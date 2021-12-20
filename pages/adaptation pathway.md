@@ -1,1 +1,2 @@
-- Dynamic and typically path-dependent, sequence of adaptation in which early adaptation influence the conditions that call for later adaptation. An adaptation pathway is a decision-making strategy that is made up of a sequence of manageable steps or decision-points over time.
+- Dynamic and typically path-dependent, sequence of [[adaptation]] in which early adaptation influence the conditions that call for later adaptation. An adaptation pathway is a decision-making strategy that is made up of a sequence of manageable steps or decision-points over time.
+	-
