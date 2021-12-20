@@ -3,4 +3,4 @@
 	  #clarkSustainabilityScienceSynthesis2020
 	- seminar: #definitionsinsustainabilityscience
 	- theme: #introduction
-	- métier:
+	- métier: #sustainabilityscienceandsystemstheory
