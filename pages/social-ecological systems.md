@@ -20,3 +20,5 @@
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System that includes societal (human) and ecological (biophysical) subsystems in mutual interactions.
+	-
+- m
