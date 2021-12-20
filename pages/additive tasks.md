@@ -1,4 +1,4 @@
-- Task or project that a group can complete by cumulatively combining individual members’ inputs.
+- Task or project that a group can complete by cumulatively combining individual members’ inputs. #definition
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
 	- seminar #performance
 	- theme #performanceAndTeams
