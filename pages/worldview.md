@@ -9,4 +9,5 @@
 	- Seminar: #introduction
 	- Theme: #quantitativeMethods
 	- Métier: #philosophyOfSchienceResearchEthicsQuantitativeAndQualitativeResearchMethods
--
+- General philosophical orientation about the world and the nature of research that a researcher brings to a study.
+	-
