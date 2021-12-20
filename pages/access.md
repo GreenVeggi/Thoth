@@ -3,3 +3,5 @@
 	- Seminar: #roleOfInstitutionsInNaturalResourceManagement
 	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+- Right to enter a defined physical area and enjoy nonsubtractive benefits.
+	- s
