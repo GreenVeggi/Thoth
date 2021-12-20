@@ -1,0 +1,2 @@
+- Set of components that interact with each other. Interconnected set of elements, with coherent organisation. A system is characterised by hierarchical structure, emergent properties, communication, and control. Some systems can exhibit dynamic, adaptive, goal-seeking, self-preserving, or evolutionary behaviour.
+	-
