@@ -2,4 +2,7 @@
 	- Du Plessis, C. (2021). The city sustainable, resilient, regenerative – a rose by any other name? In Designing Cities for Regeneration. Vol 5. Contemporary Urban Design Thinking. (Vol. 5). Springer.
 	  #duplessisCitySustainableResilient2021
 	- Seminar: #regenerativeSustainability
-	- Theme:
+	- Theme: #sustainabilitySolutions
+	- Métier: #sustainabilityscienceandsystemstheory
+- Basic set of beliefs that guide action.
+	-
