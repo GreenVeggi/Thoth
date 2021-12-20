@@ -25,4 +25,7 @@
 		- political rules, economic rules, contracts, laws, constitutions
 	- informal
 		- [[norms]] and conventions
-		-
+		- unwritten codes for human conduct
+		- enforced by social pressure/self-enforced
+		- less costly to enforce
+		- dress codes, family rules, taboos, rituals
