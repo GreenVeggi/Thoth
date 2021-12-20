@@ -1,0 +1,2 @@
+- Task or project that a group can complete by cumulatively combining individual members’ inputs.
+	-
