@@ -25,4 +25,5 @@
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System that includes the entities of common-pool resource, resource users, public infrastructure, infrastructure providers, institutional rules, external environment and the links between these entities.
--
+	- Özerol, G. (2013). Institutions of farmer participation and environmental sustainability: a multi-level analysis from irrigation management in Harran Plain, Turkey. International Journal of the Commons, 7(1), 73–91. DOI: http://doi.org/10.18352/ijc.368 #özerolInstitutionsFarmerParticipation2013
+- m
