@@ -26,4 +26,7 @@
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System that includes the entities of common-pool resource, resource users, public infrastructure, infrastructure providers, institutional rules, external environment and the links between these entities.
 	- Özerol, G. (2013). Institutions of farmer participation and environmental sustainability: a multi-level analysis from irrigation management in Harran Plain, Turkey. International Journal of the Commons, 7(1), 73–91. DOI: http://doi.org/10.18352/ijc.368 #özerolInstitutionsFarmerParticipation2013
-- m
+	- Seminar: #historyOfSocialecologicalSystems
+	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+- complex adaptive systems with key characteristics such as: (1) integrated biogeophysical and socio-cultural processes, (2) self-organisation, (3) nonlinear and unpredictable dynamics, (4) feedback between social and ecological processes, (5) changing behaviour in space (spatial thresholds) and time (time thresholds), (6) legacy behavioural effects with outcomes at very different time scales, (7) emergent properties, and (8) the impossibility to extrapolate the information from one SES to another.
