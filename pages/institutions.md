@@ -14,4 +14,6 @@
 	- seminar #roleOfInstitutionsInNaturalResourceManagement
 	- theme and métier #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - Rules and norms of society and their enforcement characteristics; regulatory structures for use and management of natural systems.
-	- Colding, J. (20 December 2021). Role of Institutions in Natural Resource Management. Högskolan i Gävle (Zoom).
+	- Colding, J. (20 December 2021). Role of Institutions in Natural Resource Management. Högskolan i Gävle (Zoom). #coldingRoleInstitutionsManagementlec2021
+	- seminar #roleOfInstitutionsInNaturalResourceManagement
+	- theme and métier #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
