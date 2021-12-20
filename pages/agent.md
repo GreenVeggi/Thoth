@@ -1,0 +1,2 @@
+- Person or thing that takes an active [[role]] or produces a specified effect.
+	- seminar
