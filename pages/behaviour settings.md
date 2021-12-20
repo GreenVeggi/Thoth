@@ -1,1 +1,1 @@
-- In ecological psychology, a physically and temporally bounded social situation that determines the actions of the individuals in the setting (defined by Roger Barker).
+- In ecological psychology, [[behaviour]] settings are a physically and temporally bounded social situation that determines the actions of the individuals in the setting (defined by Roger Barker). #definition
