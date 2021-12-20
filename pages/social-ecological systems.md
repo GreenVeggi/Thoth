@@ -15,4 +15,8 @@
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - Interdependent and linked systems of people and nature that are nested across scales.
+	- Bouamrane, M., Spierenburg, M., Agrawal, A., Boureima, A., Cormier-Salem, M.-C., Etienne, M., Le Page, C., Levrel, H., & Mathevet, R. (2016). Stakeholder engagement and biodiversity conservation challenges in social-ecological systems: some insights from biosphere reserves in western Africa and France. Ecology and Society, 21(4). http://www.jstor.org/stable/26270009
+	- Seminar: #historyOfSocialecologicalSystems
+	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - m
