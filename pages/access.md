@@ -1,4 +1,4 @@
-- Right to enter a defined physical property. #card #definition
+- Right to enter a defined physical property. #definition
 	- Schlager, E., & Ostrom, E. (1992). Property-Rights Regimes and Natural Resources: A Conceptual Analysis. Land Economics, 68(3), 249–262. https://doi.org/10.2307/3146375 #schlagerPropertyRightsRegimesNatural1992
 	- Seminar: #roleOfInstitutionsInNaturalResourceManagement
 	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
