@@ -2,33 +2,33 @@
 	- Cherkasskii B. L. (1988). The system of the epidemic process. Journal of hygiene, epidemiology, microbiology, and immunology, 32(3), 321–328. 
 	  #cherkasskiiSystemEpidemicProcess1988
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - [[system]] of people and nature.
 	- C. R. Thomas, I. J. Gordon, S. Wooldridge & P. Marshall (2012) Balancing the Tradeoffs between Ecological and Economic Risks for the Great Barrier Reef: A Pragmatic Conceptual Framework, Human and Ecological Risk Assessment: An International Journal, 18:1, 69-91, DOI: 10.1080/10807039.2012.631470 #thomasBalancingTradeoffsEcological2012
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - [[system]] where social and ecological systems are mutually dependent.
 	- Maryann Fidel, Andrew Kliskey, Lilian Alessa & Olga (Olia) P. Sutton (2014) Walrus harvest locations reflect adaptation: a contribution from a community-based observation network in the Bering Sea, Polar Geography, 37:1, 48-68, DOI: 10.1080/1088937X.2013.879613 #fidelWalrusHarvestLocations2014
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - Interdependent and linked systems of people and nature that are nested across scales.
 	- Bouamrane, M., Spierenburg, M., Agrawal, A., Boureima, A., Cormier-Salem, M.-C., Etienne, M., Le Page, C., Levrel, H., & Mathevet, R. (2016). Stakeholder engagement and biodiversity conservation challenges in social-ecological systems: some insights from biosphere reserves in western Africa and France. Ecology and Society, 21(4). http://www.jstor.org/stable/26270009 #bouamraneStakeholderEngagementBiodiversity2016
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System that includes societal (human) and ecological (biophysical) subsystems in mutual interactions.
 	- Harrington, R., Anton, C., Dawson, T.P. et al. Ecosystem services and biodiversity conservation: concepts and a glossary. Biodivers Conserv 19, 2773–2790 (2010). https://doi.org/10.1007/s10531-010-9834-9 #harringtonEcosystemServicesBiodiversity2010
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System that includes the entities of common-pool resource, resource users, public infrastructure, infrastructure providers, institutional rules, external environment and the links between these entities.
 	- Özerol, G. (2013). Institutions of farmer participation and environmental sustainability: a multi-level analysis from irrigation management in Harran Plain, Turkey. International Journal of the Commons, 7(1), 73–91. DOI: http://doi.org/10.18352/ijc.368 #özerolInstitutionsFarmerParticipation2013
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - [[complex adaptive system]]s with key characteristics such as:
 	- integrated biogeophysical and socio-cultural processes,
 	- self-organisation,
@@ -40,11 +40,11 @@
 	- the impossibility to extrapolate the information from one SES to another.
 	- del Mar Delgado-Serrano, M., Oteros-Rozas, E., Vanwildemeersch, P., Ortíz-Guerrero, C., London, S., & Escalante, R. (2015). Local perceptions on social-ecological dynamics in Latin America in three community-based natural resource management systems. Ecology and Society, 20(4). http://www.jstor.org/stable/26270288 #delgadoserranoLocalPerceptionsSocialecological2015
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - An ecological system intricately linked with and affected by one or more social systems. An ecological system can loosely be defined as an interdependent system of organisms or biological units. "Social" simply means "tending to form cooperative and interdependent relationships with others of one’s kinds". Broadly speaking, social systems can be thought of as interdependent systems of organisms. Thus, both social and ecological systems contain units that interact interdependently and each may contain interactive subsystems as well.
 	- Anderies, J. M., Janssen, M. A., & Ostrom, E. (2004). A Framework to Analyze the Robustness of Social-ecological Systems from an Institutional Perspective. Ecology and Society, 9(1). http://www.jstor.org/stable/26267655 #anderiesFrameworkRobustnessSocialecological2004
 	- Seminar: #historyOfSocialecologicalSystems
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 	-

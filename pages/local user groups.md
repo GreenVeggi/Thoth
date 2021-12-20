@@ -2,5 +2,5 @@
 	- Colding, J., Lundberg, J., & Folke, C. (2006). Incorporating Green-Area User Groups in Urban Ecosystem Management. Ambio, 35(5), 237–244.
 	  #coldingIncorporatingGreenAreaUser2006
 	- Seminar: #roleOfInstitutionsInNaturalResourceManagement
-	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
