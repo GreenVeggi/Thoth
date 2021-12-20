@@ -10,4 +10,5 @@
 	- theme #systembasedSustainabilityScience
 	- métier #sustainabilityScienceAndSystemsTheory
 - Rules of the game in a society or, more formally, are the humanly devised constraints that shape human interaction. In consequence they structure incentives in human exchange, whether political, social, or economic. Institutional change shapes the way societies evolve through time and hence is the key to understanding historical change.
+- North, D. (1990). Institutions, Institutional Change and Economic Performance (Political Economy of Institutions and Decisions). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511808678
 - Rules and norms of society and their enforcement characteristics; regulatory structures for use and management of natural systems.
