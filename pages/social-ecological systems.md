@@ -1,10 +1,10 @@
-- [[system]] consisting of two interacting subsystems: the biological (epidemiological ecosystem) and the social (social and economic conditions of life of the society) subsystems where the biological subsystem plays the role of the governed object and the social acts as the internal regulator of these interactions. #definition
+- [[system]] consisting of two interacting subsystems: the biological (epidemiological ecosystem) and the social (social and economic conditions of life of the society) subsystems where the biological [[subsystem]] plays the role of the governed object and the social acts as the internal regulator of these interactions. #definition
 	- Cherkasskii B. L. (1988). The system of the epidemic process. Journal of hygiene, epidemiology, microbiology, and immunology, 32(3), 321–328. 
 	  #cherkasskiiSystemEpidemicProcess1988
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-- System of people and nature.
+- [[system]] of people and nature.
 	- C. R. Thomas, I. J. Gordon, S. Wooldridge & P. Marshall (2012) Balancing the Tradeoffs between Ecological and Economic Risks for the Great Barrier Reef: A Pragmatic Conceptual Framework, Human and Ecological Risk Assessment: An International Journal, 18:1, 69-91, DOI: 10.1080/10807039.2012.631470 #thomasBalancingTradeoffsEcological2012
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
