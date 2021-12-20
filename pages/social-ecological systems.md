@@ -19,4 +19,4 @@
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
-- m
+- System that includes societal (human) and ecological (biophysical) subsystems in mutual interactions.
