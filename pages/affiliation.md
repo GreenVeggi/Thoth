@@ -1,0 +1,1 @@
+- Gathering together of individuals (typically members of the same species) in one location; also, a formalised relationship, as when an individual is said to be affiliated with a group or organisation.
