@@ -6,3 +6,6 @@
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System of people and nature.
 	- C. R. Thomas, I. J. Gordon, S. Wooldridge & P. Marshall (2012) Balancing the Tradeoffs between Ecological and Economic Risks for the Great Barrier Reef: A Pragmatic Conceptual Framework, Human and Ecological Risk Assessment: An International Journal, 18:1, 69-91, DOI: 10.1080/10807039.2012.631470
+	- Seminar: #historyOfSocialecologicalSystems
+	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
