@@ -1,2 +1,5 @@
 - Gathering together of individuals (typically members of the same species) in one location; also, a formalised relationship, as when an individual is said to be affiliated with a [[group]] or organisation.
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar #groupFormation
+	- theme #formationCohesionAndStructure
+	-
