@@ -1,0 +1,1 @@
+- Pattern of activity of a system over time.
