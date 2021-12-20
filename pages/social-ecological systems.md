@@ -5,12 +5,12 @@
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System of people and nature.
-	- C. R. Thomas, I. J. Gordon, S. Wooldridge & P. Marshall (2012) Balancing the Tradeoffs between Ecological and Economic Risks for the Great Barrier Reef: A Pragmatic Conceptual Framework, Human and Ecological Risk Assessment: An International Journal, 18:1, 69-91, DOI: 10.1080/10807039.2012.631470
+	- C. R. Thomas, I. J. Gordon, S. Wooldridge & P. Marshall (2012) Balancing the Tradeoffs between Ecological and Economic Risks for the Great Barrier Reef: A Pragmatic Conceptual Framework, Human and Ecological Risk Assessment: An International Journal, 18:1, 69-91, DOI: 10.1080/10807039.2012.631470 #thomasBalancingTradeoffsEcological2012
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System where social and ecological systems are mutually dependent.
-	- Maryann Fidel, Andrew Kliskey, Lilian Alessa & Olga (Olia) P. Sutton (2014) Walrus harvest locations reflect adaptation: a contribution from a community-based observation network in the Bering Sea, Polar Geography, 37:1, 48-68, DOI: 10.1080/1088937X.2013.879613
+	- Maryann Fidel, Andrew Kliskey, Lilian Alessa & Olga (Olia) P. Sutton (2014) Walrus harvest locations reflect adaptation: a contribution from a community-based observation network in the Bering Sea, Polar Geography, 37:1, 48-68, DOI: 10.1080/1088937X.2013.879613 #fidelWalrusHarvestLocations2014
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
