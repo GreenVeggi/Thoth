@@ -10,7 +10,7 @@
 	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 - [[system]] where social and ecological systems are mutually dependent.
-	- Maryann Fidel, Andrew Kliskey, Lilian Alessa & Olga (Olia) P. Sutton (2014) Walrus harvest locations reflect adaptation: a contribution from a community-based observation network in the Bering Sea, Polar Geography, 37:1, 48-68, DOI: 10.1080/1088937X.2013.879613 #fidelWalrusHarvestLocations2014
+	- Maryann Fidel, Andrew Kliskey, Lilian Alessa & Olga (Olia) P. Sutton (2014) Walrus harvest locations reflect [[adaptation]]: a contribution from a community-based observation network in the Bering Sea, Polar Geography, 37:1, 48-68, DOI: 10.1080/1088937X.2013.879613 #fidelWalrusHarvestLocations2014
 	- Seminar: #historyOfSocialecologicalSystems
 	- Theme: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
