@@ -3,5 +3,6 @@
 	  #clarkSustainabilityScienceSynthesis2020
 	- seminar #definitionsInSustainabilityScience
 	- theme #introduction
-	- métier
-- The structures that make societal interaction predictable and guide human action towards collective goals.
+	- métier #sustainabilityScienceAndSystemsTheory
+- Structures that make societal interaction predictable and guide human action towards collective goals.
+- Rules of the game in a society or, more formally, are the humanly devised constraints that shape human interaction. In consequence they structure incentives in human exchange, whether political, social, or economic. Institutional change shapes the way societies evolve through time and hence is the key to understanding historical change.
