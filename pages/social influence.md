@@ -1,4 +1,4 @@
-- Interpersonal processes that change the thoughts, feelings, or [[behaviour]]s of another person. #card #definition
+- Interpersonal processes that change the thoughts, feelings, or [[behaviour]]s of another person. #definition
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
 	- Seminar: #influence
 	- Theme: #influenceAndPower
