@@ -10,4 +10,7 @@
 	- Theme: #quantitativeMethods
 	- Métier: #philosophyOfSchienceResearchEthicsQuantitativeAndQualitativeResearchMethods
 - General philosophical orientation about the world and the nature of research that a researcher brings to a study.
-	-
+	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE. #creswellResearchDesignQualitative2018
+	- Seminar: #introduction
+	- Theme: #quantitativeMethods
+	- Métier: #philosophyOfSchienceResearchEthicsQuantitativeAndQualitativeResearchMethods
