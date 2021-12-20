@@ -20,5 +20,5 @@
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - System that includes societal (human) and ecological (biophysical) subsystems in mutual interactions.
-	-
+	- Harrington, R., Anton, C., Dawson, T.P. et al. Ecosystem services and biodiversity conservation: concepts and a glossary. Biodivers Conserv 19, 2773–2790 (2010). https://doi.org/10.1007/s10531-010-9834-9
 - m
