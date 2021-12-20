@@ -1,0 +1,1 @@
+- Entities with [[agency]], including people, communities, firms, other organisations, and states, but also some nonhuman organisms and their assemblages.
