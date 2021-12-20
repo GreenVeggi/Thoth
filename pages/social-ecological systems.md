@@ -43,4 +43,5 @@
 	- Theme: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 	- Métier: #naturalResouceManagementAndResilienceBuildingOfSocialecologicalSystems
 - An ecological system intricately linked with and affected by one or more social systems. An ecological system can loosely be defined as an interdependent system of organisms or biological units. "Social" simply means "tending to form cooperative and interdependent relationships with others of one’s kinds". Broadly speaking, social systems can be thought of as interdependent systems of organisms. Thus, both social and ecological systems contain units that interact interdependently and each may contain interactive subsystems as well.
--
+	- #anderiesFrameworkRobustnessSocialecological2004
+	-
