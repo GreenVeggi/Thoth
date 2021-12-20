@@ -1,0 +1,4 @@
+- Story of how the world is perceived and experienced, what the world is, how it works and how humans should act in this world. Each worldview gives way to its successor because of certain inherent limitations in the earlier worldview. This generates a lot of chaos from which the [[system]] escapes by evolving to a more highly organised pattern which solves or defuses the earlier patterns. In turn, the new worldview will eventually come across its own recalcitrant problems and inherent limitations that cannot be solved at its current level, and thus trigger a new collapse into chaos and a new worldview which address these limitations.
+	- #duplessisCitySustainableResilient2021
+	- Seminar: #regenerativeSustainability
+	- Theme:
