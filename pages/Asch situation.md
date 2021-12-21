@@ -1,2 +1,5 @@
 - Experimental procedure developed by Solomon Asch in his studies of [[conformity]] to [[group]] opinion. Participants believed they were making perceptual judgments as part of a group, but the other members were trained to make deliberate errors on certain trials.
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar #power
+	- theme #influenceAndPower
+	- métier
