@@ -1,2 +1,4 @@
 - Statement or proposition which is regarded as being established, accepted, or self-evidently true.
-	- seminar
+	- seminar #definitionsInSustainabilityScience
+	- theme #introduction
+	- métier #sustainabilityScienceAndSystemsTheory
