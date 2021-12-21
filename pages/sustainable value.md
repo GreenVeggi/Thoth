@@ -1,0 +1,2 @@
+- Creating value for the undertaking, while respecting the rights of its members, investors, employees, and other contractual parties, and promoting good [[governance]], decent work and equality, and the human rights of its workers and affected communities and peoples.
+	-
