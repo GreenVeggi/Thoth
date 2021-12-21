@@ -1,2 +1,3 @@
 - In writing, are sentences whose purposes  are to keep the reader on track, organise ideas, and keep an individual’s attention. #definition
+	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE. #creswellResearchDesignQualitative2018
 	-
