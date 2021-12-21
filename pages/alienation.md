@@ -1,4 +1,4 @@
-- Right to sell or lease either or both of the above collective-choice rights.
+- Right to sell or lease either or both of the above collective-choice rights. #definition
 	- Schlager, E., & Ostrom, E. (1992). Property-Rights Regimes and Natural Resources: A Conceptual Analysis. Land Economics, 68(3), 249–262. https://doi.org/10.2307/3146375 #schlagerPropertyRightsRegimesNatural1992
 	- seminar #roleOfInstitutionsInNaturalResourceManagement
-	- theme #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
+	- theme, métier #naturalResourceManagementAndResilienceBuildingOfSocialecologicalSystems
