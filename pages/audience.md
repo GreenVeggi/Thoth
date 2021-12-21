@@ -1,2 +1,5 @@
 - Gathering of onlookers who observe some performance, event, or activity; audiences tend to be conventional in behaviour, and they disperse when the event they are watching concludes. #definition
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar #crowdsAndCollectives
+	- theme #contextChangeAndCrowds
+	- métier #groupDecisionMakingAndLeadershipForSustainability
