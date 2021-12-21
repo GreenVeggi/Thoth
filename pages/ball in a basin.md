@@ -1,2 +1,4 @@
 - Metaphor explaining how resilient [[system]]s work. If the ball is pushed a little bit, it will return to the bottom of the basin, _i.e._ to its initial state. If the ball is pushed hard enough, it will leave the basin and eventually settle somewhere else, _i.e_. in an additional state. The height of the basin thus corresponds with [[resilience]] capacity: the higher the basin, the harder of a push the ball can withstand and still return to its initial stage.
-	-
+	- Walker, B. H., & Salt, D. (2006). Resilience Thinking: Sustaining Ecosystems and People in a Changing World. Island Press. #walkerResilienceThinkingSustaining2006
+	- seminar #resilienceManagementOfNaturalResourcesAndEcosystems
+	- theme
