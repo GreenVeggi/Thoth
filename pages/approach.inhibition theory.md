@@ -1,1 +1,2 @@
-title:: approach/inhibition theory
+- Integrative conceptual analysis of the transformative effects of [[power]] that finds power to be psychologically and [[behaviour]]ally activating but the lack of power inhibiting (posited by Dacher Keltner and his colleagues).
+	-
