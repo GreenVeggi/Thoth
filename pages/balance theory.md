@@ -1,3 +1,5 @@
 - Analysis of social relations that assumes relationships can be either balanced (integrated units with elements that fit together without stress) or unbalanced (inconsistent units with elements that conflict with one another). Unbalanced relationships create an unpleasant tension that must be relieved by changing some element of the [[system]] (developed by Fritz Heider). #definition
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar #structureInGroupDynamics
+	- theme #formationCohesionAndStructure
 	-
