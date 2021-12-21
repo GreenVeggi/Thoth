@@ -1,2 +1,4 @@
 - Relating to or characterised by autopoiesis; self-maintaining and self-regulating. #definition
-	-
+	- seminar #regenerativeSustainability
+	- theme #sustainabilitySolutions
+	- métier #sustainabilityScienceAndSystemsTheory
