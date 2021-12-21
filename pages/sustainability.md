@@ -1,4 +1,5 @@
--
+- Continuing process of ensuring the balance of economic, environmental, and human [[wellbeing]] both now and in the future. #definition
+	- McPhearson, T., Pickett, S. T. A., Grimm, N. B., Niemelä, J., Alberti, M., Elmqvist, T., Weber, C., Haase, D., Breuste, J., & Qureshi, S. (2016). Advancing Urban Ecology toward a Science of Cities. BioScience, 66(3), 198–212. https://doi.org/10.1093/biosci/biw002 #mcphearsonAdvancingUrbanEcology2016
 - Principle of ensuring that our actions today do not limit the range of economic, social, and environmental options open to future generations.
 	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
 	- métier #strategicSustainabilityManagement
