@@ -1,2 +1,2 @@
 - Creating value for the undertaking, while respecting the rights of its members, investors, employees, and other contractual parties, and promoting good [[governance]], decent work and equality, and the human rights of its workers and affected communities and peoples.
-	-
+	- Sjåfjell, B. (2021). Reforming EU Company Law to Secure the Future of European Business (SSRN Scholarly Paper ID 3797685). Social Science Research Network. https://papers.ssrn.com/abstract=3797685 #sjåfjellReformingEUCompany2021
