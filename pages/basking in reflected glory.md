@@ -1,0 +1,2 @@
+- Seeking direct or indirect association with prestigious or successful [[group]]s or individuals. #definition
+	-
