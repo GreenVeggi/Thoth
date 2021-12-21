@@ -1,0 +1,5 @@
+- Gathering of people in a public location whose members torment, tease, or goad others. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar #crowdsAndCollectives
+	- theme #contextChangeAndCrowds
+	- métier
