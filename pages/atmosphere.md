@@ -1,4 +1,4 @@
-- Function of the biological activity of the [[biosphere]]. Ideally, the geochemical and biochemical processes are in balance: the first photosynthetic bacteria evolved, they probably absorbed atmospheric carbon (which would cool the planet) but released methane (which would warm the planet).
+- Function of the biological activity of the [[biosphere]]. Ideally, the geochemical and biochemical processes are in balance: the first photosynthetic bacteria evolved, they probably absorbed atmospheric carbon (which would cool the planet) but released methane (which would warm the planet). #definition
 - From earth to space, the atmosphere consists of:
 	- [[troposphere]],
 	- [[stratosphere]] (including the ozone layer), and
