@@ -1,1 +1,5 @@
-- Law of interactionism that states each person’s behavioural, cognitive, and emotional reactions (“[[behaviour]]”), _B_, are a function of his or her personal qualities, _P_, the social environment, _E_, and the interaction of these personal qualities with factors present in the social environment.
+- Law of interactionism that states each person’s behavioural, cognitive, and emotional reactions (“[[behaviour]]”), _B_, are a function of his or her personal qualities, _P_, the social environment, _E_, and the interaction of these personal qualities with factors present in the social environment. #definitionsInSustainabilityScience
+	- Lewin, K. (1951). Field theory in social science: selected theoretical papers (Edited by Dorwin Cartwright.). Harpers. #lewinFieldTheorySocial1951
+	- seminar #groupsInclusionAndIdentity
+	- theme #introduction
+	- métier
