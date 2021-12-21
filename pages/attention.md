@@ -1,0 +1,2 @@
+- In writing, are sentences whose purposes  are to keep the reader on track, organise ideas, and keep an individual’s attention. #definition
+	-
