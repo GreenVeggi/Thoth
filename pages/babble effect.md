@@ -1,1 +1,2 @@
-- Tendency for group members who talk at a high rate in the group to emerge as leaders, even if the information they share with the group is of low quality.
+- Tendency for [[group]] members who talk at a high rate in the group to emerge as leaders, even if the information they share with the group is of low quality. #definition
+	-
