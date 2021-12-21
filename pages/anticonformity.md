@@ -1,2 +1,5 @@
 - Deliberately expressing opinions, making judgments, or acting in ways that are different from those of the other [[group]] members or the group’s [[norms]] in order to challenge the group and its standards rather than simply for the purpose of expressing one’s personal preferences. #definition
-	-
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar #influence
+	- theme #influenceAndPower
+	- métier @
