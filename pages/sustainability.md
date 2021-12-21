@@ -1,2 +1,4 @@
+-
 - Principle of ensuring that our actions today do not limit the range of economic, social, and environmental options open to future generations.
 	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
+	- métier #strategicSustainabilityManagement
