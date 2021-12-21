@@ -1,3 +1,5 @@
 - One’s characteristic approach to relationships with other people; the basic styles include secure, preoccupied, fearful, and dismissing, as defined by the dimensions of anxiety and avoidance. #definition
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
-	-
+	- seminar #groupFormation
+	- theme #formationCohesionAndStructure
+	- métier #groupDecisionMakingAndLeadershipForSustainability
