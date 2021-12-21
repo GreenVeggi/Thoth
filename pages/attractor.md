@@ -1,2 +1,2 @@
-- State towards which a [[system]] tends from other states.
-	-
+- State towards which a [[system]] tends from other states. #definition
+	- Clayton, A. M. H., & Radcliffe, N. J. (1997). Sustainability: A systems approach (1. publ., reprint). Earthscan.
