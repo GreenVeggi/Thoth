@@ -1,0 +1,3 @@
+- Psychological reaction (mood, feelings, or emotions) evoked by a setting. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	-
