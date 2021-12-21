@@ -1,0 +1,2 @@
+- Relating to or characterised by autopoiesis; self-maintaining and self-regulating. #definition
+	-
