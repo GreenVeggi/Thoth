@@ -1,0 +1,3 @@
+- Individuals predisposed to put the [[group]]’s interests and goals above their personal interests and motivations; collectivists or interdependents. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	-
