@@ -1,0 +1,2 @@
+- Tendency for high-status members to claim unfair and inappropriate privileges and honours, including predacious sexual activities. #definition
+	-
