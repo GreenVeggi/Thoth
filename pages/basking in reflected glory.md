@@ -1,2 +1,5 @@
 - Seeking direct or indirect association with prestigious or successful [[group]]s or individuals. #definition
-	-
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar #groupsInclusionAndIdentity
+	- theme #introduction
+	- métier
