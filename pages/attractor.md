@@ -1,0 +1,2 @@
+- State towards which a [[system]] tends from other states.
+	-
