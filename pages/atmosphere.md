@@ -6,4 +6,4 @@
 	- Clayton, A. M. H., & Radcliffe, N. J. (1997). Sustainability: A systems approach (1. publ., reprint). Earthscan. #claytonSustainabilitySystemsApproach1997
 	- seminar #historyOfSustainabilityScience
 	- theme #introduction
-	- métier
+	- métier #sustainabilityScienceAndSystemsTheory
