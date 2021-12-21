@@ -2,4 +2,4 @@
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
 	- seminar #structureInGroupDynamics
 	- theme #formationCohesionAndStructure
-	-
+	- métier #groupDecisionMakingAndLeadershipForSustainability
