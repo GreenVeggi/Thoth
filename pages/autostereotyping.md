@@ -1,0 +1,3 @@
+- Accepting socially shared generalisations about the prototypical characteristics attributed to members of one’s [[group]] as accurate descriptions of oneself; self-stereotyping.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- seminar
