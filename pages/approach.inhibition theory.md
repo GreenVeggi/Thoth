@@ -1,4 +1,5 @@
 - Integrative conceptual analysis of the transformative effects of [[power]] that finds power to be psychologically and [[behaviour]]ally activating but the lack of power inhibiting (posited by Dacher Keltner and his colleagues).
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
 	- seminar #power
-	- theme
+	- theme #influenceAndPower
+	- métier #groupDecisionMakingAndLeadershipForSustainability
