@@ -1,0 +1,3 @@
+- Total value of your assets minus your liabilities.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
+- Human-generated wealth, including both the goods that society produces and the tokens of value, such as money, that society uses to transfer wealth.
