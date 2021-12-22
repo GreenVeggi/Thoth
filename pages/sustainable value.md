@@ -2,4 +2,4 @@
 	- Sjåfjell, B. (2021). Reforming EU Company Law to Secure the Future of European Business (SSRN Scholarly Paper ID 3797685). Social Science Research Network. https://papers.ssrn.com/abstract=3797685 #sjåfjellReformingEUCompany2021
 	- seminar #legalChallengesAndOpportunities
 	- theme #sustainabilitySolutions
-	- métier
+	- métier #sustainabilityScienceAndSystemsTheory
