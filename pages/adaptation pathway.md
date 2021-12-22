@@ -1,5 +1,2 @@
 - Dynamic and typically path-dependent, sequence of [[adaptation]] in which early adaptation influence the conditions that call for later adaptation. An adaptation pathway is a decision-making strategy that is made up of a sequence of manageable steps or decision-points over time. #definition
 	- Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. Annual Review of Environment and Resources, 45(1), 331–386. https://doi.org/10.1146/annurev-environ-012420-043621 #clarkSustainabilityScienceSynthesis2020
-	- seminar #definitionsInSustainabilityScience
-	- theme #introduction
-	- métier #sustainabilityScienceAndSystemsTheory
