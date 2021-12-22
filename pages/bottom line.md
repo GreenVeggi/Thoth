@@ -1,0 +1,2 @@
+- Profit figure used as the earnings figure in the earnings-per-share statement, part of standard accounting practice. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
