@@ -1,0 +1,2 @@
+- Economic (and, necessarily, political) system in which individual owners of capital are (relatively) free to dispose of it as they please and, in particular, for their own profit. #definition
+	-
