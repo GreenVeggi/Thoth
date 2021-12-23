@@ -1,3 +1,2 @@
-- imes in the life of a business
-  when its fundamentals are about to change,” and for “10x” changes — moments
-  when the forces affecting a given company suddenly multiply ten-fold.
+- Times in the life of a business when its fundamentals are about to change; 10x changes — moments when the forces affecting a given company suddenly multiply ten-fold. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
