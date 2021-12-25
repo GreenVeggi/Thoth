@@ -1,2 +1,2 @@
 - In the same way that certain social groups or communities may be economically disadvantaged, so they may suffer disproportionate health, safety, or environmental problems. Linked issues can surface around various types of industrial facility, from oilfields and chemical production complexes to major airports. #definition
-	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
