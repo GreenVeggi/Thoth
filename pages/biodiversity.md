@@ -1,0 +1,2 @@
+- The word, a contraction of “biological diversity,” is sometimes used as a synonym for “Life on Earth.” But its specific meanings, referring to the number, variety, and variability of living organisms, will be central to 21st-century values, thinking and action.
+	-
