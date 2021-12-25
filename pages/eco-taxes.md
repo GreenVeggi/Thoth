@@ -1,0 +1,2 @@
+- Use of economic, and in particular fiscal, instruments for environmental protection is gaining support. Examples include charges and taxes on polluting emissions and products, tradable emission permits, and deposit-refund schemes. The aim is to achieve environmental or broader [[sustainability]] policy objectives more effectively and at lower cost. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
