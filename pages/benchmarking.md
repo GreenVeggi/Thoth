@@ -1,2 +1,2 @@
-- Developed in such areas as Total Quality Management (TQM), benchmarking involves the comparison, ranking or rating of different business processes, units or companies against standards. The aim: to identify ways of improving the performance of operations, systems, processes. Environmental benchmarking is a growth area.
-	-
+- Developed in such areas as Total Quality Management (TQM), benchmarking involves the comparison, ranking or rating of different business processes, units or companies against standards. The aim: to identify ways of improving the performance of operations, [[system]]s, processes. Environmental benchmarking is a growth area.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
