@@ -1,0 +1,2 @@
+- As traditional industry boundaries erode, new types of multi-industry coalitions and networks are emerging. Think of the Microsoft-Intel (or “Wintel”) business [[ecosystem]]. The real test for 21st-century businesses will be to outperform their rivals at creating the new business ecosystems needed to build and sustain competitive triple bottom line (_q.v._) performance.
+	-

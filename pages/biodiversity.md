@@ -1,2 +1,2 @@
-- The word, a contraction of “biological diversity,” is sometimes used as a synonym for “Life on Earth.” But its specific meanings, referring to the number, variety, and variability of living organisms, will be central to 21st-century values, thinking and action.
+- The word, a contraction of “biological diversity,” is sometimes used as a synonym for “Life on Earth.” But its specific meanings, referring to the number, variety, and variability of living organisms, will be central to 21st-century values, thinking and action. #definition
 	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
