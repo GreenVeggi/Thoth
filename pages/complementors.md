@@ -1,0 +1,2 @@
+- Those [[actor]]s in an economy or society who supply complementary products, services or inputs to businesses or business [[ecosystem]]s (_q.v._). Increasingly, these can include actors once thought hostile, including competitors and campaigning [[group]]s. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
