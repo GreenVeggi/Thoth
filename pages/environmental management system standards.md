@@ -1,2 +1,2 @@
 - Main international EMS standard is ISO 14001. There are also emerging regional EMS systems, notably the European Union’s Eco-Management and Audit Scheme (EMAS). #definition
-	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
