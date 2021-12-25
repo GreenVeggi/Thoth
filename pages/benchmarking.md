@@ -1,0 +1,2 @@
+- Developed in such areas as Total Quality Management (TQM), benchmarking involves the comparison, ranking or rating of different business processes, units or companies against standards. The aim: to identify ways of improving the performance of operations, systems, processes. Environmental benchmarking is a growth area.
+	-
