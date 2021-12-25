@@ -1,0 +1,2 @@
+- Business approach which recognises that in the new economy companies may often end up working alongside, or even through, their competitors. Key players are seen to be customers, suppliers, competitors, and/or complementors (_q.v._). #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
