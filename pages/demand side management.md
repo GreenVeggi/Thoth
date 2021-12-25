@@ -1,2 +1,2 @@
 - DSM can be applied in any industry where a product can be replaced by a service. The central principle is that a company or utility learns to provide (and have customers pay for) services (_e.g._ heated rooms, lighted spaces) rather than kilowatt-hours or therms of gas. Often, the market needs to be provided with new price signals or other incentives. #definition
--
+	-
