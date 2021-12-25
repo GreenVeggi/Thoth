@@ -1,0 +1,1 @@
+- Involves the delivery of competitively priced goods and services that satisfy human needs and bring quality of life, while progressively reducing ecological impacts and resource intensity throughout the life cycle, to a level at least in line with the Earth’s estimated [[carrying capacity]]. #definition
