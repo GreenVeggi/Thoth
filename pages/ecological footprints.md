@@ -1,0 +1,2 @@
+- The size and impact of the “footprints” of companies, communities, or individuals reflect a number of interlinked factors, among them human population numbers, consumption patterns, and the technologies used. A more challenging version of the concept is “environmental space,” as developed by Friends of the Earth Netherlands/Milieudefensie.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
