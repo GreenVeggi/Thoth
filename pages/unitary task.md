@@ -1,2 +1,2 @@
 - Task that cannot be performed piecemeal because it does not break down into any subcomponents. #definition
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019

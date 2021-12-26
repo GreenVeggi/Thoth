@@ -1,0 +1,1 @@
+- Selecting people who are superior to oneself or whose outcomes surpass one’s own as targets for social comparison.
