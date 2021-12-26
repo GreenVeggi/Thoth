@@ -1,2 +1,2 @@
 - Prediction that online contact between the members of different [[group]]s will improve relations between these groups. #definition
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019

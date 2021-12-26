@@ -1,0 +1,2 @@
+- Oral or written questioning of prospective jurors by counsel or the judge. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
