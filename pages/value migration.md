@@ -1,2 +1,2 @@
 - Market change pulls economic value from one company (or industry) and pushes it towards another. In losing control of the personal computer market, for example, it has been estimated that IBM may have lost $70 billion to new business [[ecosystem]]s (_q.v._) centred on companies like Microsoft. The [[sustainability]] transition will also drive value migration between companies, sectors, and economies. #definition
-	-
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
