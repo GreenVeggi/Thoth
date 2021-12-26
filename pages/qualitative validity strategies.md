@@ -1,2 +1,2 @@
 - Procedures (_e.g._, member checking, triangulating data sources) that qualitative researchers use to demonstrate the accuracy of their findings and convince readers of this accuracy. #definition [[validity]]
-	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE.
+	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE. #creswellResearchDesignQualitative2018
