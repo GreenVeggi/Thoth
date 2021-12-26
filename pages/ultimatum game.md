@@ -1,1 +1,2 @@
-- Experimental bargaining situation in which one individual, the allocator, must propose a division of a shared resource to other members; if they reject the allocator’s proposal, no one receives any of the resource.
+- Experimental bargaining situation in which one individual, the allocator, must propose a division of a shared resource to other members; if they reject the allocator’s proposal, no one receives any of the [[resource]]. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
