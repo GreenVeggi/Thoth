@@ -1,1 +1,2 @@
-- Characteristic or attribute of an individual or an organisation that can be measured or observed and that varies among the people or organisation being studied. A variable typically will vary in two or more categories or on a continuum of scores, and it can be measured.
+- Characteristic or attribute of an individual or an organisation that can be measured or observed and that varies among the people or organisation being studied. A variable typically will vary in two or more categories or on a continuum of scores, and it can be measured. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
