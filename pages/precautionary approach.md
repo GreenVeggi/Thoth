@@ -1,0 +1,2 @@
+- Policy or other action taken before the underlying science has reached absolute clarity. #definition
+	-
