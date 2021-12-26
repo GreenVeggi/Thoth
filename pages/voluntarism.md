@@ -1,2 +1,2 @@
 - Every country determines its own response, and is responsible and has the rights for the impact in its own territory. #definition
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
