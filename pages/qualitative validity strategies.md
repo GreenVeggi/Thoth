@@ -1,0 +1,1 @@
+- Procedures (_e.g._, member checking, triangulating data sources) that qualitative researchers use to demonstrate the accuracy of their findings and convince readers of this accuracy.

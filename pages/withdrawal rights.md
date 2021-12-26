@@ -1,4 +1,4 @@
-- Right to obtain the "products" of a resource, _e.g_. catch fish, appropriate water, _et cetera_. #definition
+- Right to obtain the "products" of a [[resource]], _e.g_. catch fish, appropriate water, _et cetera_. #definition
 	- Schlager, E., & Ostrom, E. (1992). Property-Rights Regimes and Natural Resources: A Conceptual Analysis. Land Economics, 68(3), 249–262. https://doi.org/10.2307/3146375 #schlagerPropertyRightsRegimesNatural1992
 - Right to obtain the [[resource]] units or "products" of a resource.
 	- Colding, J. (16-12-2021). Lecture: Resilience Management of Natural Resources. Högskolan i Gävle (Zoom).
