@@ -1,0 +1,2 @@
+- Comes in two main forms: “critical” natural capital (essential to the maintenance of life and [[ecosystem]] integrity) and renewable, replaceable, or substitutable natural capital. #definition
+	-
