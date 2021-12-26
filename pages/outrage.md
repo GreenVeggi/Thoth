@@ -1,0 +1,1 @@
+- Perceived risk is usually a complex, volatile mix of hazard and outrage. Experts argue that companies minimise the risk of outrage when they engage stakeholders (_q.v._) in the development and operation of major projects.
