@@ -1,2 +1,2 @@
-- Single chemical elements, compounds, and produced goods.
+- Single chemical elements, compounds, and produced goods. #definitions
 	- Azapagic, A. (2018). Environmental Systems Analysis. In M. Kutz, Handbook of Environmental Engineering (pp. 1–12). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781119304418.ch1 #azapagicEnvironmentalSystemsAnalysis2018
