@@ -1,1 +1,2 @@
-- Some countries, particularly the Netherlands, are encouraging selected industry sectors to agree voluntary targets — and encourage member companies towards those targets, as an alternative to new regulation. The threat of regulation, however, is always in the background.
+- Some countries, particularly the Netherlands, are encouraging selected industry sectors to agree voluntary targets — and encourage member companies towards those targets, as an alternative to new regulation. The threat of regulation, however, is always in the background. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
