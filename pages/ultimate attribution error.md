@@ -1,0 +1,2 @@
+- Attributing negative actions performed by members of the [[outgroup]] to dispositional qualities and positive actions to situational, fluctuating circumstances. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
