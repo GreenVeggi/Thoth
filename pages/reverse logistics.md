@@ -1,0 +1,2 @@
+- Use of logistical and distribution [[system]]s to recover products or materials destined for [[remanufacturing]] or recycling. #definition
+	-

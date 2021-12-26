@@ -1,2 +1,2 @@
 - Pioneered by companies like Xerox, remanufacturing involves the recovery of equipment or products for servicing. upgrading, and re-sale as working [[system]]s. Potentially offers much higher environmental returns than recycling. #definition
-	-
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
