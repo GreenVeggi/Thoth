@@ -1,0 +1,1 @@
+- [[wellbeing]] of the whole, with multiple types of capital—social, human, financial, natural, manufactured—considered.
