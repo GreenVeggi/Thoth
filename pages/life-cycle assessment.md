@@ -1,0 +1,2 @@
+- Overall process of assessing the life-cycle impacts associated with a [[system]], function, product, or service. Sometimes considered to include four stages: initiation, inventory, impact analysis, and improvement. #definition
+	-
