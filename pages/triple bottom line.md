@@ -1,2 +1,2 @@
-- Sustainable development involves the simultaneous pursuit of economic prosperity, environmental quality, and social equity. Companies aiming for sustainability need to perform not against a single, financial bottom line but against the triple bottom line. #definition
+- [[sustainable development]] involves the simultaneous pursuit of economic prosperity, environmental quality, and social equity. Companies aiming for [[sustainability]] need to perform not against a single, financial bottom line but against the triple bottom line. #definition
 	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
