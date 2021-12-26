@@ -1,2 +1,2 @@
 - Broadest definition of “stakeholder” brings in anyone who affects or is affected by a company’s operations. The key new perception is that companies need to expand the range of interests considered in any new development from customers, shareholders, management, and employees to such people as suppliers, local communities, and pressure groups. #definition
-	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
