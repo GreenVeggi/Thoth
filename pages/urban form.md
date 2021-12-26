@@ -1,2 +1,2 @@
-- Spatial patterns of the built, infrastructural, and embedded biotic components of cities. #definition
+- Spatial patterns of the built, infrastructural, and embedded [[biotic]] components of cities. #definition
 	- McPhearson, T., Pickett, S. T. A., Grimm, N. B., Niemelä, J., Alberti, M., Elmqvist, T., Weber, C., Haase, D., Breuste, J., & Qureshi, S. (2016). Advancing Urban Ecology toward a Science of Cities. BioScience, 66(3), 198–212. https://doi.org/10.1093/biosci/biw002 #mcphearsonAdvancingUrbanEcology2016
