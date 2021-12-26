@@ -1,0 +1,2 @@
+- Right to obtain the "products" of a resource, _e.g_. catch fish, appropriate water, _et cetera_. #definition
+	-
