@@ -1,0 +1,2 @@
+- An integrating concept of the good life, the constituents of which will vary among people and across time. #definition
+	-
