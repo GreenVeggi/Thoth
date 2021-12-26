@@ -1,2 +1,2 @@
-- View of leadership, attributed to Leo Tolstoy, which states that history is determined primarily by the “spirit of the times” rather than by the actions and choices of great leaders. #definition
+- View of [[leadership]], attributed to Leo Tolstoy, which states that history is determined primarily by the “spirit of the times” rather than by the actions and choices of great leaders. #definition
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
