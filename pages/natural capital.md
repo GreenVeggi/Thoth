@@ -1,2 +1,2 @@
 - Comes in two main forms: “critical” natural capital (essential to the maintenance of life and [[ecosystem]] integrity) and renewable, replaceable, or substitutable natural capital. #definition
-	-
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
