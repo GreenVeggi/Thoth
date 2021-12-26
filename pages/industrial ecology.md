@@ -1,0 +1,1 @@
+- Discipline which focuses on the design, development, operation, renewal, and decommissioning of industrial facilities as ecological [[system]]s, with an emphasis on the optimization of resource efficiency. #definition

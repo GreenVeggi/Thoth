@@ -1,2 +1,2 @@
 - Although this is an area in need of much further work, the Holy Grail is to develop accounting methods which account for all the key costs of a project or activity, not just the financial costs. #definition
-	-
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
