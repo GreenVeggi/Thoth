@@ -1,0 +1,1 @@
+- Some countries, particularly the Netherlands, are encouraging selected industry sectors to agree voluntary targets — and encourage member companies towards those targets, as an alternative to new regulation. The threat of regulation, however, is always in the background.
