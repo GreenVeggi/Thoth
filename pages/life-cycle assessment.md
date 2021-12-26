@@ -1,2 +1,2 @@
 - Overall process of assessing the life-cycle impacts associated with a [[system]], function, product, or service. Sometimes considered to include four stages: initiation, inventory, impact analysis, and improvement. #definition
-	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
