@@ -1,2 +1,2 @@
 - Policy or other action taken before the underlying science has reached absolute clarity. #definition
-	-
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
