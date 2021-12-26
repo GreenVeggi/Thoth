@@ -1,0 +1,2 @@
+- Degree to which a measurement method assesses what it was designed to measure. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
