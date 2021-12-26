@@ -1,0 +1,2 @@
+- Pioneered by companies like Xerox, remanufacturing involves the recovery of equipment or products for servicing. upgrading, and re-sale as working [[system]]s. Potentially offers much higher environmental returns than recycling. #definition
+	-
