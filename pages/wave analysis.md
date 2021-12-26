@@ -1,0 +1,2 @@
+- Researcher examines returns on select items week by week to determine if average responses change. #definition
+	-
