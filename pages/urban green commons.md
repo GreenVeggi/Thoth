@@ -1,2 +1,2 @@
 - Urban [[ecosystem]]s of diverse ownership that depend on collective organisation and management. #definition
-	- Colding, J., Lundberg, J., & Folke, C. (2006). Incorporating Green-Area User Groups in Urban Ecosystem Management. Ambio, 35(5), 237–244.
+	- Colding, J., Lundberg, J., & Folke, C. (2006). Incorporating Green-Area User Groups in Urban Ecosystem Management. Ambio, 35(5), 237–244. #coldingIncorporatingGreenAreaUser2006
