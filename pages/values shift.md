@@ -1,2 +1,2 @@
--
-- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
+- Over time, human and social values change. Concepts that once seemed extraordinary (_e.g._ emancipating slaves, enfranchising women) are now taken for granted. New concepts (_e.g._ responsible consumerism, environmental justice, intra- and inter-generational equity) are now coming up the curve. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
