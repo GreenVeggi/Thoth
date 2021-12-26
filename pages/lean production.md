@@ -1,0 +1,2 @@
+- Based on the concept of _muda_, and pioneered by Toyota, this is the Japanese approach to waste management and resource efficiency. It aims to avoid: the production of goods that no one wants or which fail to meet expectations; the use of processing steps that are not needed; and the non-productive transport of people or materials. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
