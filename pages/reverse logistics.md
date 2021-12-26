@@ -1,2 +1,2 @@
 - Use of logistical and distribution [[system]]s to recover products or materials destined for [[remanufacturing]] or recycling. #definition
-	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998

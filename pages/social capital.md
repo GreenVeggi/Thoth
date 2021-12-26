@@ -1,0 +1,2 @@
+- Measure of the ability of people to work together for common purposes in [[group]]s and organisations. A key element of social capital is the sense of mutual trust. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
