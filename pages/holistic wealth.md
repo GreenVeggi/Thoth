@@ -1,1 +1,2 @@
-- [[wellbeing]] of the whole, with multiple types of [[capital]]— [[social capital]], [[human capital]], financial, [[natural capital]], manufactured—considered.
+- [[wellbeing]] of the whole, with multiple types of [[capital]]— [[social capital]], [[human capital]], financial, [[natural capital]], manufactured—considered. #definition
+	- Gibbons, L. V. (2020). Regenerative—The New Sustainable? Sustainability, 12(13), 5483. https://doi.org/10.3390/su12135483
