@@ -1,0 +1,2 @@
+- Proposed as a least-cost approach to cutting greenhouse gas emissions. The idea is that Annex 1 countries under the Framework Convention on Climate Change, which have binding commitments to cut their emissions, can invest in emission-reducing projects in countries which do not have such commitments. #definition
+	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers.
