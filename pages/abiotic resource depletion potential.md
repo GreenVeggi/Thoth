@@ -1,0 +1,1 @@
+- Depletion of fossil fuels, metals, and minerals.
