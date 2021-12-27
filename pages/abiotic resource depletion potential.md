@@ -1,5 +1,2 @@
 - Depletion of fossil fuels, metals, and minerals. #definition
-	- Azapagic, A. (2011). Assessing environmental sustainability: Life cycle thinking and life cycle assessment. In: Sustainable Development in Practice:
-	  Case Studies for Engineers and Scientists (eds. A.
-	  Azapagic and S. Perdan), Chapter 3. Chichester:
-	  Wiley.
+	- Azapagic, A. (2011). _Assessing environmental sustainability: Life cycle thinking and life cycle assessment_. In: Sustainable Development in Practice: Case Studies for Engineers and Scientists (eds. A. Azapagic and S. Perdan), Chapter 3. Chichester: Wiley.
