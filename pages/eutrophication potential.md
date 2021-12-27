@@ -1,2 +1,2 @@
 - Potential of nutrients to cause over-fertilisation of water and soil. #definition
-	-
+	- Azapagic, A. (2011). *Assessing environmental sustainability: Life cycle thinking and life cycle assessment*. In: Sustainable Development in Practice: Case Studies for Engineers and Scientists (eds. A. Azapagic and S. Perdan), Chapter 3. Chichester: Wiley. #azapagicAssessingEnvironmentalSustainability2011
