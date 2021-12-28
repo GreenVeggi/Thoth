@@ -1,1 +1,2 @@
-- Social structures and institutions that manage feedbacks and parameters. Part of deep leverage points. Characteristics relate to the structure of information flows, rules, power and self-organisation. #definition
+- Social structures and [[institutions]] that manage feedbacks and parameters. Part of deep leverage points. Characteristics relate to the structure of information flows, rules, power and self-organisation. #definition
+	- Abson, D. J., Fischer, J., Leventon, J., Newig, J., Schomerus, T., Vilsmaier, U., von Wehrden, H., Abernethy, P., Ives, C. D., Jager, N. W., & Lang, D. J. (2017). Leverage points for sustainability transformation. Ambio, 46(1), 30–39. https://doi.org/10.1007/s13280-016-0800-y
