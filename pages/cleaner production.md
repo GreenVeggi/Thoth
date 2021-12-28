@@ -1,3 +1,2 @@
-- Continuous application of an integrated preventive
-  environmental strategy applied to processes, products, and services to increase eco-efficiency and reduce risks
-  to humans and the environment.
+- Continuous application of an integrated preventive environmental strategy applied to processes, products, and services to increase eco-efficiency and reduce risks to humans and the environment. #definition
+	-
