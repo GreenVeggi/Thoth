@@ -1,0 +1,1 @@
+- Operational methods supporting the concepts.
