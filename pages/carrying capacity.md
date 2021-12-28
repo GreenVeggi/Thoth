@@ -1,5 +1,6 @@
 - Maximum population size of a biological species that can be sustained by that specific environment, given the food, habitat, water, and other resources available. #definition
 	- Giusti, M. (2021). History of Sustainability Science (seminar). Högskolan i Gävle (Zoom).
-- Population that a given ecology can support. Main factors in determining carrying capacity are levels of population, patterns of resource demand, environmental yield potential and resource flows, and environmental absorption capacity and impacts. Factors' interaction determines the long-term viability of development options. Can be calculated regionally and globally.
-	-
+- Population that a given [[ecology]] can support. Main factors in determining carrying capacity are levels of population, patterns of resource demand, environmental yield potential and resource flows, and environmental absorption capacity and impacts. Factors' interaction determines the long-term viability of development options. Can be calculated regionally and globally.
+	- Clayton, A. M. H., & Radcliffe, N. J. (1997). Sustainability: A systems approach (1. publ., reprint). Earthscan. #claytonSustainabilitySystemsApproach1997
 - Maximum population size in growth models.
+	-
