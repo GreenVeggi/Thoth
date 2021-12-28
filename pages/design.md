@@ -1,0 +1,1 @@
+- Social structures and institutions that manage feedbacks and parameters. Part of deep leverage points. Characteristics relate to the structure of information flows, rules, power and self-organisation. #definition
