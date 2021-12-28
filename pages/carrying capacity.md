@@ -3,4 +3,4 @@
 - Population that a given [[ecology]] can support. Main factors in determining carrying capacity are levels of population, patterns of resource demand, environmental yield potential and resource flows, and environmental absorption capacity and impacts. Factors' interaction determines the long-term viability of development options. Can be calculated regionally and globally.
 	- Clayton, A. M. H., & Radcliffe, N. J. (1997). Sustainability: A systems approach (1. publ., reprint). Earthscan. #claytonSustainabilitySystemsApproach1997
 - Maximum population size in growth models.
-	-
+	- Walker, B. H., & Salt, D. (2006). Resilience Thinking: Sustaining Ecosystems and People in a Changing World. Island Press. #walkerResilienceThinkingSustaining2006
