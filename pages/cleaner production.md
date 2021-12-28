@@ -1,2 +1,2 @@
-- Continuous application of an integrated preventive environmental strategy applied to processes, products, and services to increase eco-efficiency and reduce risks to humans and the environment. #definition
+- Continuous application of an integrated preventive environmental strategy applied to processes, products, and services to increase [[eco-efficiency]] and reduce risks to humans and the environment. #definition
 	- UNEP (1996): Sustainable production and consumption: Cleaner production. United Nations Environmental Programme, Industry and Environment, flyer printed in 1996. #unepSustainableProductionConsumption1996
