@@ -1,0 +1,3 @@
+- Maximum population size of a biological species that can be sustained by that specific environment, given the food, habitat, water, and other resources available. #definition
+- Population that a given ecology can support. Main factors in determining carrying capacity are levels of population, patterns of resource demand, environmental yield potential and resource flows, and environmental absorption capacity and impacts. Factors' interaction determines the long-term viability of development options. Can be calculated regionally and globally.
+-
