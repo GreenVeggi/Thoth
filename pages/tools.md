@@ -1,2 +1,2 @@
-- Operational methods supporting the [[concept]]s. #definition
+- Operational methods supporting the [[concept]]s, structured vehicles for reasoning, analysis and communication. #definition
 	- Wrisberg, N., De Haes, H. A. U., Triebswetter, U., Eder, P., & Clift, R. (2002). Analytical Tools for Environmental Design and Management in a Systems Perspective The Combined Use of Analytical Tools. https://doi.org/10.1007/978-94-010-0456-5 #wrisbergAnalyticalToolsEnvironmental2002
