@@ -1,3 +1,4 @@
 - Involves the delivery of competitively priced goods and services that satisfy human needs and bring quality of life, while progressively reducing ecological impacts and resource intensity throughout the life cycle, to a level at least in line with the Earth’s estimated [[carrying capacity]]. #definition
 	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
--
+- Delivery of competitively-priced goods and services, that satisfy human needs and bring quality of life, whilst progressively reducing ecological impacts and resource intensity throughout the lifecycle, to a level in line with the Earth's estimated carrying capacity.
+	-
