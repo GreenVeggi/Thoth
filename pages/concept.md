@@ -1,0 +1,2 @@
+- An idea on how to achieve sustainability, such as life cycle thinking, design for the environment, and cleaner technology. #definition
+	-
