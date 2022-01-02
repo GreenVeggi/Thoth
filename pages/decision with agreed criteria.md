@@ -1,0 +1,1 @@
+- Decision made by one individual or by a group who have agreed in advance on the criteria to be used in reaching the decision.
