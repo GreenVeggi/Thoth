@@ -1,0 +1,2 @@
+- What is the compatibility of the tool (LCA, CBA) with other types of information, such as economic, social, and technological? #definition
+	- Wrisberg, N., De Haes, H. A. U., Triebswetter, U., Eder, P., & Clift, R. (2002). Analytical Tools for Environmental Design and Management in a Systems Perspective The Combined Use of Analytical Tools. https://doi.org/10.1007/978-94-010-0456-5. #wrisbergAnalyticalToolsEnvironmentalD
