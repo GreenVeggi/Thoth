@@ -1,2 +1,2 @@
 - Concern investment in new technologies, plants, infrastructures, or acquiring of companies. #definition
-	-
+	- Wrisberg, N., De Haes, H. A. U., Triebswetter, U., Eder, P., & Clift, R. (2002). _Analytical Tools for Environmental Design and Management in a Systems Perspective The Combined Use of Analytical Tools_. https://doi.org/10.1007/978-94-010-0456-5. #wrisbergAnalyticalToolsEnvironmental2002
