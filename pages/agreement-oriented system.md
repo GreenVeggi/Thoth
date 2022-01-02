@@ -1,0 +1,1 @@
+- System is defined by agreements between companies along a production-consumption chain, based on environmental management characteristics of companies as a whole. The agreement-oriented [[system]] type can best be seen as a more qualitative form of the function-oriented type of system #definition.
