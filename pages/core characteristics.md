@@ -1,0 +1,2 @@
+- The decision object, the spatial characteristics, the temporal
+  characteristics, the question type, the chain focus.
