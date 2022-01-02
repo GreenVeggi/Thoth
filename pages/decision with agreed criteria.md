@@ -1,1 +1,2 @@
-- Decision made by one individual or by a group who have agreed in advance on the criteria to be used in reaching the decision.
+- Decision made by one individual or by a group who have agreed in advance on the criteria to be used in reaching the decision. #definition
+	- Wrisberg, N., De Haes, H. A. U., Triebswetter, U., Eder, P., & Clift, R. (2002). Analytical Tools for Environmental Design and Management in a Systems Perspective The Combined Use of Analytical Tools. https://doi.org/10.1007/978-94-010-0456-5.
