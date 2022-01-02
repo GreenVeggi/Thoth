@@ -1,3 +1,2 @@
-- System consists of specifying which processes are included in the system under study, and which processes are not. For
-  instance, all processes within a given region are part of the
-  system
+- System consists of specifying which processes are included in the system under study, and which processes are not. For instance, all processes within a given region are part of the [[system]]. #definition
+	- Wrisberg, N., De Haes, H. A. U., Triebswetter, U., Eder, P., & Clift, R. (2002). _Analytical Tools for Environmental Design and Management in a Systems Perspective The Combined Use of Analytical Tools_. https://doi.org/10.1007/978-94-010-0456-5. #wrisbergAnalyticalToolsEnvironmental2002
