@@ -1,0 +1,2 @@
+- Decision process, whether it is decisions with or without agreed criteria, involving different steps and taking place in an iterative way with feedback loops. #definition
+	-
