@@ -1,0 +1,2 @@
+- Concern investment in new technologies, plants, infrastructures, or acquiring of companies. #definition
+	-
