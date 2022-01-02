@@ -1,0 +1,1 @@
+- Decision-making takes place within a specific cultural context, characterised by the stakeholders and the political sensitivity of the decision.
