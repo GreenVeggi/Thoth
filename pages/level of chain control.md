@@ -1,3 +1,4 @@
 - Degree of control of a firm in a chain of processes. Chains can differ as to their stability: a firm can have stable relationships with a limited number of suppliers, or it can aim at short-term contracts with a large variety of suppliers. In the first instance, a higher degree of control over the suppliers will be possible. #definition
 	- Wrisberg, N., De Haes, H. A. U., Triebswetter, U., Eder, P., & Clift, R. (2002). _Analytical Tools for Environmental Design and Management in a Systems Perspective The Combined Use of Analytical Tools_. https://doi.org/10.1007/978-94-010-0456-5. #wrisbergAnalyticalToolsEnvironmental2002
 	- [[chain analysis]]
+	- [[chain perspective]]
