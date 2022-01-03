@@ -1,0 +1,1 @@
+- Different stakeholders participate in a mutual learning process designed to develop and elicit their values, and to achieve sufficient mutual understanding to reach agreement on a way to resolve the problem that initiated the process.
