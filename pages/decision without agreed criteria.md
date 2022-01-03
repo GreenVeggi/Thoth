@@ -1,0 +1,2 @@
+- Decision which involves many stakeholders who do not agree on the criteria for the decision. #definition
+	-
