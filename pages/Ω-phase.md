@@ -1,0 +1,1 @@
+- Symbolises the accident/disturbance. It entails loss of energy, for example heat during a forest fire.
