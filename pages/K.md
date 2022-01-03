@@ -1,2 +1,3 @@
 - Parameter for [[carrying capacity]] or maximum population size in growth models. #definition
-	-
+	- Walker, B. H., & Salt, D. (2006). _Resilience Thinking: Sustaining Ecosystems and People in a Changing World_. Island Press. #walkerResilienceThinkingSustaining2006
+	- [[K-strategists]]
