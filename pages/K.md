@@ -1,0 +1,2 @@
+- Parameter for [[carrying capacity]] or maximum population size in growth models. #definition
+	-

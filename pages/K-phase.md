@@ -1,3 +1,3 @@
-- Energy is stored most efficiently. Biodiversity is lower as the system is dominated by a few strong competitors. Low diversity renders the system vulnerable to disturbance. #definition
+- Energy is stored most efficiently. Biodiversity is lower as the [[system]] is dominated by a few strong competitors. Low diversity renders the system vulnerable to disturbance. #definition
 	- Barthel, S., Colding, J., Ernstson, H., Erixon, H., Grahn, S., Kärsten, C., Marcus, L. H., & Torsvall, J. (2013). _Principles of social-ecological urbanism: Case study: Albano Campus, Stockholm._ Architecture and Built Environment, KTH. #barthelPrinciplesSocialEcologicalUrbanism2013
 	- [[K]]
