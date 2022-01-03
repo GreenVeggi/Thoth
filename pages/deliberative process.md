@@ -1,1 +1,2 @@
-- Different stakeholders participate in a mutual learning process designed to develop and elicit their values, and to achieve sufficient mutual understanding to reach agreement on a way to resolve the problem that initiated the process.
+- Different stakeholders participate in a mutual learning process designed to develop and elicit their values, and to achieve sufficient mutual understanding to reach agreement on a way to resolve the problem that initiated the process. #definition
+	- Wrisberg, N., De Haes, H. A. U., Triebswetter, U., Eder, P., & Clift, R. (2002). _Analytical Tools for Environmental Design and Management in a Systems Perspective The Combined Use of Analytical Tools_. https://doi.org/10.1007/978-94-010-0456-5. #wrisbergAnalyticalToolsEnvironmental2002
