@@ -4,3 +4,4 @@
 	  ecology and Systematics, 4:1-23. #hollingResilienceStabilityEcological1973
 	- Holling, C. S. (ed.) 1978. _Adaptive Environmental Assessment and Management_.
 	  Wiley, London. #hollingAdaptiveEnvironmentalAssesment1978
+-
