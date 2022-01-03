@@ -1,0 +1,1 @@
+- Reorganisation and renewal of the system after the accident. Renewal relies to a great extent on the "ecological memory" of past phases and the disturbed linkages to other ecosystems in the r- and K-phases. If these are not accessible in the alpha phase the system risk tipping into a new stability domain.
