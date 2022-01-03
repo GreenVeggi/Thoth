@@ -1,0 +1,2 @@
+- Establishment/exploitation of un-vegetated land, e.g. land cleared by a fire. At this stage the land has great potential for development of biodiversity and the ecological memory will decide which species will be present. #definition
+	-
