@@ -9,4 +9,4 @@
 - Capacity of a system to absorb disturbance and still retain its basic function and structure.
 	- Walker, B. H., & Salt, D. (2006). Resilience Thinking: Sustaining Ecosystems and People in a Changing World. Island Press. #walkerResilienceThinkingSustaining2006
 - Stability at a presumed steady state, emphasising resistance to disturbances and speed of return to the equilibrium point.
-	- Hanna, S., & Munasinghe, M. (Eds.). (1995). _Property rights and the environment: Social and ecological issues_. Beijer International Institute of Ecological Economics and the World Bank.
+	- Hanna, S., & Munasinghe, M. (Eds.). (1995). _Property rights and the environment: Social and ecological issues_. Beijer International Institute of Ecological Economics and the World Bank. #hannaPropertyRightsEnvironment1995
