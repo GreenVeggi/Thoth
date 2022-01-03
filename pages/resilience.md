@@ -1,0 +1,1 @@
+- Ability of an ecosystem to absorb disturbances, renew itself and continue within a specific state. His research made it clear that it is the resilience of the system that decides the durability of variables and relations within the system, and thus its aptitude for renewal and endurance when under stress.
