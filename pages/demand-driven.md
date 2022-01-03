@@ -1,0 +1,2 @@
+- A specified social demand or function is taken as a starting point for the [[system]] #definition.
+	-
