@@ -1,0 +1,2 @@
+- Decision characterised by a crisis situation where information has to be gathered fast and managers have to partly rely on predetermined procedures. #definition
+	-
