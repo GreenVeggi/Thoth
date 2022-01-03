@@ -1,2 +1,2 @@
 - Establishment/exploitation of un-vegetated land, e.g. land cleared by a fire. At this stage the land has great potential for development of biodiversity and the ecological memory will decide which species will be present. #definition
-	-
+	- Barthel, S., Colding, J., Ernstson, H., Erixon, H., Grahn, S., Kärsten, C., Marcus, L., & Torsvall, J. (2013). Principles of Social-Ecological Urbanism - Case Study: Albano Campus, Stockholm. #barthelPrinciplesSocialEcologicalUrbanism2013
