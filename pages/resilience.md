@@ -6,4 +6,6 @@
 	  Wiley, London. #hollingAdaptiveEnvironmentalAssesment1978
 - System’s ability to utilise the “breathing room” provided by its robustness to disturbance to fundamentally change how it uses resources under the new conditions (see also [[adaptation]], [[transformation]]s).
 	- Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. Annual Review of Environment and Resources, 45(1), 331–386. https://doi.org/10.1146/annurev-environ-012420-043621. #clarkSustainabilityScienceSynthesis2020
+- Capacity of a system to absorb disturbance and still retain its basic function and structure.
+	- Walker, B. H., & Salt, D. (2006). Resilience Thinking: Sustaining Ecosystems and People in a Changing World. Island Press. #walkerResilienceThinkingSustaining2006
 -
