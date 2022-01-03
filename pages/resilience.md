@@ -10,5 +10,6 @@
 	- Walker, B. H., & Salt, D. (2006). Resilience Thinking: Sustaining Ecosystems and People in a Changing World. Island Press. #walkerResilienceThinkingSustaining2006
 - Stability at a presumed steady state, emphasising resistance to disturbances and speed of return to the equilibrium point.
 	- Hanna, S., & Munasinghe, M. (Eds.). (1995). _Property rights and the environment: Social and ecological issues_. Beijer International Institute of Ecological Economics and the World Bank. #hannaPropertyRightsEnvironment1995
-- Measure of the perturbation that can be absorbed before an ecosystem is shifted into another state. In this definition, systems are complex and self-organizing, permeated by uncertainties and discontinuities, and have several possible equilibrial states.
-	-
+- Measure of the perturbation that can be absorbed before an [[ecosystem]] is shifted into another state. In this definition, [[system]]s are complex and self-organising, permeated by uncertainties and discontinuities, and have several possible equilibrial states.
+	- Hanna, S., & Munasinghe, M. (Eds.). (1995). _Property rights and the environment: Social and ecological issues_. Beijer International Institute of Ecological Economics and the World Bank. #hannaPropertyRightsEnvironment1995
+- Capacity of a system to absorb stress, to continue to develop, and to change without a loss of essential structure, function, identity, and feedback.
