@@ -1,1 +1,2 @@
-- What safeguard subjects is t
+- What safeguard subjects is the tool aiming at? Such as human health, [[natural resources]], [[ecosystem]] protection (natural environment), manufactured environment. #definition
+	-
