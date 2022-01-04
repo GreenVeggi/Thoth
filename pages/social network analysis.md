@@ -1,2 +1,3 @@
 - Set of procedures for studying the relational structure of [[group]]s and networks mathematically and graphically. Using information about the relationships (ties, edges) linking members (nodes, vertexes), the method yields member-level indexes (_e.g_. centrality and betweenness), group-level indexes (_e.g_. density and cohesiveness), and a graphic representation of the unit. #definition
 	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- [[social network]]
