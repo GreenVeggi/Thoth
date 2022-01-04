@@ -1,0 +1,4 @@
+- Set of interpersonally interconnected individuals or [[group]]s. #definition
+	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
+- Pattern of stable relations between [[actor]]s.
+	-
