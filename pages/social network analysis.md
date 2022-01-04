@@ -1,0 +1,1 @@
+- Set of procedures for studying the relational structure of groups and networks mathematically and graphically. Using information about the relationships (ties, edges) linking members (nodes, vertexes), the method yields member-level indexes (e.g. centrality and betweenness), group-level indexes (e.g. density and cohesiveness), and a graphic representation of the unit.

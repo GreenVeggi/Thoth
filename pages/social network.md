@@ -1,4 +1,4 @@
 - Set of interpersonally interconnected individuals or [[group]]s. #definition
 	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
 - Pattern of stable relations between [[actor]]s.
-	-
+	- Barthel, S., Colding, J., Ernstson, H., Erixon, H., Grahn, S., Kärsten, C., Marcus, L. H., & Torsvall, J. (2013). _Principles of social-ecological urbanism: Case study: Albano Campus, Stockholm_. Architecture and Built Environment, KTH. #barthelPrinciplesSocialEcologicalUrbanism2013
