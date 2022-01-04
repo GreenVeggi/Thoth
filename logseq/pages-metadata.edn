@@ -1,12 +1,15 @@
 [{:block/name "a",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
  {:block/name "abilene paradox",
   :block/created-at 1640001960188,
   :block/updated-at 1640001960188}
+ {:block/name "abiotic resource depletion potential",
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "absonleveragepointssustainability2017",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "abstract",
   :block/created-at 1640002033799,
   :block/updated-at 1640002033799}
@@ -43,87 +46,102 @@
  {:block/name "agentic state",
   :block/created-at 1640028348742,
   :block/updated-at 1640029761392}
+ {:block/name "agreement-oriented system",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "alienation",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "allocentrics",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "ambience",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
+ {:block/name "analytical tools",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "anderiesframeworkrobustnesssocialecological2004",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "anticonformity",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "approach",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "approach/inhibition theory",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "asch situation",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "atmosphere",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "attachment style",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "attention",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "attention restoration theory",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "attractor",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "audience",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "authorised user",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "autopoietic",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "autostereotyping",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "axiom",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611301,
+  :block/updated-at 1641284611301}
+ {:block/name "azapagicassessingenvironmentalsustainability2011",
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "azapagicenvironmentalsystemsanalysis2018",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "b",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "b=f(p,e)",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "babble effect",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "baiting crowd",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "balance theory",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "ball in a basin",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
+ {:block/name "barthelprinciplessocialecologicalurbanism2013",
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "basking in reflected glory",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "bathsheba syndrome",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
+ {:block/name "bcsdgettingecoefficientbusiness1993",
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "behaviour",
   :block/created-at 1640002119602,
   :block/updated-at 1640002498654}
@@ -134,92 +152,119 @@
   :block/created-at 1640465587469,
   :block/updated-at 1640465667770}
  {:block/name "berkesrediscoverytraditionalecological2000",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "biodiversity",
   :block/created-at 1640465754684,
   :block/updated-at 1640465843766}
  {:block/name "biome",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "biosphere",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "biotic",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "bottom line",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
  {:block/name "bouamranestakeholderengagementbiodiversity2016",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "business ecosystems",
   :block/created-at 1640465854415,
   :block/updated-at 1640465977153}
  {:block/name "c",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "capital",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
+ {:block/name "capital investment",
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "capitalism",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "card",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "carrying capacity",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
+ {:block/name "chain analysis",
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
+ {:block/name "chain perspective",
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
  {:block/name "cherkasskiisystemepidemicprocess1988",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "clarksustainabilitysciencesynthesis2020",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "claytonsustainabilitysystemsapproach1997",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
+ {:block/name "cleaner production",
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "co-opetition",
   :block/created-at 1640466188641,
   :block/updated-at 1640466319902}
  {:block/name "cohesion",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "coldingincorporatinggreenareauser2006",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "coldingpotentialurbangreen2013",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "coldingresiliencemanagementnaturallec2021",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611301,
+  :block/updated-at 1641284611301}
  {:block/name "coldingroleinstitutionsmanagementlec2021",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
+ {:block/name "compatibility with other types of information",
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
  {:block/name "complementors",
   :block/created-at 1640466010029,
   :block/updated-at 1640466180079}
  {:block/name "complex adaptive system",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
+ {:block/name "concept",
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "conformity",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
+ {:block/name "consultation process",
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "contents",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "contextchangeandcrowds",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "creswellresearchdesignqualitative2018",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "crowdsandcollectives",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
+ {:block/name "cultural context",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
+ {:block/name "data requirements and availability",
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "dec 16th, 2021",
   :block/created-at 1640026801595,
   :block/updated-at 1640026801595}
@@ -250,36 +295,60 @@
  {:block/name "dec 26th, 2021",
   :block/created-at 1640476800000,
   :block/updated-at 1640476800000}
+ {:block/name "decision object",
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
+ {:block/name "decision steps",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
+ {:block/name "decision with agreed criteria",
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
+ {:block/name "decision without agreed criteria",
+  :block/created-at 1641284611301,
+  :block/updated-at 1641284611301}
  {:block/name "decisionmaking",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "definition",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "definitions",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "definitionsinsustainabilityscience",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "delgadoserranolocalperceptionssocialecological2015",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
+ {:block/name "deliberative process",
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "demand side management",
   :block/created-at 1640466333640,
   :block/updated-at 1640466442401}
+ {:block/name "demand-driven",
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
+ {:block/name "design",
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
+ {:block/name "design for environment",
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "development pathway",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "doing",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "done",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "duplessiscitysustainableresilient2021",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611301,
+  :block/updated-at 1641284611301}
  {:block/name "eco-efficiency",
   :block/created-at 1640466474721,
   :block/updated-at 1640466584430}
@@ -289,18 +358,27 @@
  {:block/name "ecological footprints",
   :block/created-at 1640466613789,
   :block/updated-at 1640466720494}
+ {:block/name "ecology",
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "economic evaluation",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "economics of ecosystems and biodiversity",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "ecosystem",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
+ {:block/name "ecosystems",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "elkingtoncannibalsforkstriple1998",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
+ {:block/name "emergency situation",
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "environmental justice",
   :block/created-at 1640467947139,
   :block/updated-at 1640468036788}
@@ -310,87 +388,105 @@
  {:block/name "environmental systems analysis",
   :block/created-at 1640511957584,
   :block/updated-at 1640515308694}
+ {:block/name "eutrophication potential",
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "factor 4",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "factor 4/10",
   :block/created-at 1640468213289,
   :block/updated-at 1640468335661}
  {:block/name "favorites",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
+ {:block/name "feedback",
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "fidelwalrusharvestlocations2014",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
+ {:block/name "fikseldesignenvironmentecoefficient1996",
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "flow",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "formationcohesionandstructure",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "forsythgroupdynamics2019",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "full-cost accounting",
   :block/created-at 1640468351092,
   :block/updated-at 1640504649609}
  {:block/name "general resilience",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "gibbonsregenerativenewsustainable2020",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "governance",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "green resources",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "group",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "groupdecisionmakingandleadershipforsustainability",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "groupformation",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "groupsinclusionandidentity",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "groupsincontext",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "gubaalternativeparadigmdialog1990",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
+ {:block/name "hannapropertyrightsenvironment1995",
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "harringtonecosystemservicesbiodiversity2010",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "hedonic pricing",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "historyofsocialecologicalsystems",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "historyofsustainabilityscience",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "holistic wealth",
   :block/created-at 1640508939187,
   :block/updated-at 1640509252640}
+ {:block/name "hollingadaptiveenvironmentalassesment1978",
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "hollingcommandcontrolpathology1996",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
+ {:block/name "hollingresiliencestabilityecological1973",
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "human capital",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "in-progress",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "inclusion",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "industrial covenants",
   :block/created-at 1640504858312,
   :block/updated-at 1640504908430}
@@ -398,62 +494,83 @@
   :block/created-at 1640504666938,
   :block/updated-at 1640504827866}
  {:block/name "influence",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "influenceandpower",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "institutions",
   :block/created-at 1640009047810,
   :block/updated-at 1640175800251}
  {:block/name "introduction",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "ionosphere",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
+ {:block/name "jan 3rd, 2022",
+  :block/created-at 1641168000000,
+  :block/updated-at 1641168000000}
+ {:block/name "jan 4th, 2022",
+  :block/created-at 1641254400000,
+  :block/updated-at 1641254400000}
  {:block/name "joint implementation",
   :block/created-at 1640505054748,
   :block/updated-at 1640505215325}
+ {:block/name "k",
+  :block/created-at 1641226530988,
+  :block/updated-at 1641226609809}
+ {:block/name "k-phase",
+  :block/created-at 1641226458306,
+  :block/updated-at 1641226516549}
+ {:block/name "k-strategists",
+  :block/created-at 1641226622833,
+  :block/updated-at 1641233789659}
  {:block/name "knowledge",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "later",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "leadership",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "lean production",
   :block/created-at 1640505234348,
   :block/updated-at 1640505417686}
+ {:block/name "level of chain control",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
+ {:block/name "level of improvement",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "leveragepointsinsustainabilityscience",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "lewinfieldtheorysocial1951",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "life cycle analysis",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611301,
+  :block/updated-at 1641284611301}
  {:block/name "life cycle assessment",
   :block/created-at 1640505439400,
   :block/updated-at 1640505704640}
  {:block/name "linking-project",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "local user groups",
   :block/created-at 1640002013324,
   :block/updated-at 1640002013324}
  {:block/name "management",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "materials",
   :block/created-at 1640516419813,
   :block/updated-at 1640516587034}
  {:block/name "mcphearsonadvancingurbanecology2016",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "mips approach",
   :block/created-at 1640505718299,
   :block/updated-at 1640505831945}
@@ -461,100 +578,115 @@
   :block/created-at 1640505865199,
   :block/updated-at 1640505957342}
  {:block/name "natural resources",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name
   "naturalresourcemanagementandresiliencebuildingofsocialecologicalsystems",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "norms",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "northinstitutionalchangeeconomic1990",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "now",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "nutrient cycles",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "optimisation",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "outgroup",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "outrage",
   :block/created-at 1640505964120,
   :block/updated-at 1640506085135}
  {:block/name "performance",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "performanceandteams",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name
   "philosophyofschienceresearchethicsquantitativeandqualitativeresearchmethods",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "power",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "precautionary approach",
   :block/created-at 1640506101232,
   :block/updated-at 1640506200232}
+ {:block/name "procedural tools",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "qualitative validity strategies",
   :block/created-at 1640509887594,
   :block/updated-at 1640510067875}
  {:block/name "quantitativemethods",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
+ {:block/name "r-phase",
+  :block/created-at 1641225636858,
+  :block/updated-at 1641226157425}
  {:block/name "regenerativesustainability",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "regime",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "regime shift",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
+ {:block/name "region-oriented system",
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "remanufacturing",
   :block/created-at 1640506226349,
   :block/updated-at 1640506321183}
  {:block/name "researchdesign",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "resilience",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "resilience thinking",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "resiliencemanagementofnaturalresourcesandecosystems",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "resource",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "reverse logistics",
   :block/created-at 1640506347160,
   :block/updated-at 1640506490977}
  {:block/name "robustness",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "role",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "roleofinstitutionsinnaturalresourcemanagement",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
+ {:block/name "routine decision",
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
+ {:block/name "safeguard subjects",
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "schlagerpropertyrightsregimesnatural1992",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "sjåfjellreformingeucompany2021",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "social capital",
   :block/created-at 1640506520978,
   :block/updated-at 1640506636172}
@@ -568,8 +700,8 @@
   :block/created-at 1640506660923,
   :block/updated-at 1640506774128}
  {:block/name "specified resilience",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "stakeholders",
   :block/created-at 1640506790900,
   :block/updated-at 1640507211258}
@@ -577,65 +709,71 @@
   :block/created-at 1640246529991,
   :block/updated-at 1640250929419}
  {:block/name "stratosphere",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "structureingroupdynamics",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
  {:block/name "subsystem",
   :block/created-at 1639998840733,
   :block/updated-at 1639999172697}
  {:block/name "sustainability",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "sustainability versus resilience",
-  :block/created-at 1640552052687,
-  :block/updated-at 1640552052687}
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "sustainabilityscienceandsystemstheory",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "sustainabilitysolutions",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "sustainable development",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "sustainable value",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "system",
   :block/created-at 1639999236315,
   :block/updated-at 1639999462319}
  {:block/name "systembasedsustainabilityscience",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "systems thinking",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "systemstheory",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
  {:block/name "thomasbalancingtradeoffsecological2012",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "todo",
-  :block/created-at 1640552052689,
-  :block/updated-at 1640552052689}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
+ {:block/name "tools",
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
  {:block/name "transformation",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611302,
+  :block/updated-at 1641284611302}
  {:block/name "triple bottom line",
   :block/created-at 1640507225069,
   :block/updated-at 1640507453550}
  {:block/name "troposphere",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611304,
+  :block/updated-at 1641284611304}
  {:block/name "ultimate attribution error",
   :block/created-at 1640510216488,
   :block/updated-at 1640510271108}
  {:block/name "ultimatum game",
   :block/created-at 1640510284919,
   :block/updated-at 1640510423558}
+ {:block/name "unepsustainableproductionconsumption1996",
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "unitary task",
   :block/created-at 1640510466019,
   :block/updated-at 1640510527327}
@@ -676,14 +814,14 @@
   :block/created-at 1640508767565,
   :block/updated-at 1640508821791}
  {:block/name "wait",
-  :block/created-at 1640552052690,
-  :block/updated-at 1640552052690}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "waiting",
-  :block/created-at 1640552052686,
-  :block/updated-at 1640552052686}
+  :block/created-at 1641284611298,
+  :block/updated-at 1641284611298}
  {:block/name "walkerresiliencethinkingsustaining2006",
-  :block/created-at 1640552052691,
-  :block/updated-at 1640552052691}
+  :block/created-at 1641284611305,
+  :block/updated-at 1641284611305}
  {:block/name "wave analysis",
   :block/created-at 1640508864465,
   :block/updated-at 1640508922994}
@@ -691,17 +829,26 @@
   :block/created-at 1640509288217,
   :block/updated-at 1640509404759}
  {:block/name "withdrawal",
-  :block/created-at 1640552052688,
-  :block/updated-at 1640552052688}
+  :block/created-at 1641284611303,
+  :block/updated-at 1641284611303}
  {:block/name "withdrawal rights",
   :block/created-at 1640509429941,
   :block/updated-at 1640509853987}
  {:block/name "worldview",
   :block/created-at 1639999876750,
   :block/updated-at 1640000530211}
+ {:block/name "wrisberganalyticaltoolsenvironmental2002",
+  :block/created-at 1641284611300,
+  :block/updated-at 1641284611300}
  {:block/name "zeitgeist theory",
   :block/created-at 1640508243615,
   :block/updated-at 1640508300853}
  {:block/name "özerolinstitutionsfarmerparticipation2013",
-  :block/created-at 1640552052686, 
-  :block/updated-at 1640552052686}]
+  :block/created-at 1641284611299,
+  :block/updated-at 1641284611299}
+ {:block/name "α-phase",
+  :block/created-at 1641234389119,
+  :block/updated-at 1641235359493}
+ {:block/name "ω-phase",
+  :block/created-at 1641233808164, 
+  :block/updated-at 1641234370915}]
