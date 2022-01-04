@@ -1,2 +1,2 @@
 - Institutional side of the management unit where the action space for the manager is determined, to whom the property rightly belong, what is allowed or not, _et cetera_. #definition [[institutions]]
-	- Barthel, S., Colding, J., Ernstson, H., Erixon, H., Grahn, S., Kärsten, C., Marcus, L. H., & Torsvall, J. (2013). _Principles of social-ecological urbanism: Case study: Albano Campus, Stockholm_. Architecture and Built Environment, KTH.
+	- Barthel, S., Colding, J., Ernstson, H., Erixon, H., Grahn, S., Kärsten, C., Marcus, L. H., & Torsvall, J. (2013). _Principles of social-ecological urbanism: Case study: Albano Campus, Stockholm_. Architecture and Built Environment, KTH. #barthelPrinciplesSocialEcologicalUrbanism2013
