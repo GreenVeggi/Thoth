@@ -1,0 +1,2 @@
+- Kind of social [[institutions]] that govern management of [[natural resources]] and [[ecosystem]]s. #definition
+	-
