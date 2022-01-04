@@ -1,0 +1,1 @@
+- Institutional side of the management unit where the action space for the manager is determined, to whom the property rightly belong, what is allowed or not, et cetera. #definition [[institutions]]
