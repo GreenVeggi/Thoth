@@ -1,2 +1,2 @@
 - Kind of social [[institutions]] that govern management of [[natural resources]] and [[ecosystem]]s. #definition
-	-
+	- Hanna, S., Folke, C. and Mäler, K.-G. (Eds.) 1996. _Rights to Nature: Ecological, Economic, Cultural, and Political Principles of Institutions for the Environment_. Island Press, Washington D.C.
