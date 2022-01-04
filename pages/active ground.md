@@ -1,0 +1,1 @@
+- Division of land, buildings or rooms into several parts, promoting and supporting the development of differences and diversity.
