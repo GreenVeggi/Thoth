@@ -1,0 +1,2 @@
+- Organism that can live in semi-urban areas. This group includes many organisms that we associate with gardens and small scale farming, _i.e_. landscapes where humans and ecosystems have co-existed for a long time. Birds, pollinating insects, small mammals and amphibians are some examples of the animals we find in this group. It is here, at the interface between urban and rural, that these organisms are found in greatest abundance. #definition
+	-
