@@ -1,4 +1,5 @@
 - Division of land, buildings or rooms into several parts, promoting and supporting the development of differences and diversity. #definition
+	- ![image.png](../assets/image_1641312795131_0.png)
 	- Barthel, S., Colding, J., Ernstson, H., Erixon, H., Grahn, S., Kärsten, C., Marcus, L. H., & Torsvall, J. (2013). _Principles of social-ecological urbanism: Case study: Albano Campus, Stockholm_. Architecture and Built Environment, KTH. #barthelPrinciplesSocialEcologicalUrbanism2013
 - [[green artery]]
 - [[performative buildings]]
