@@ -1,2 +1,2 @@
 - Water used by [[ecosystem]]s to uphold the generation of [[ecosystem services]]. #definition
-	-
+	- Folke, C., Falkenmark, M., 1998. _Linking water flows and ecosystem services: a conceptual framework for improved environmental management_. In: Falkenmark, M. (Ed.), With Rivers to the Sea: Interaction of Land Activities, Freshwater and Enclosed Coastal Seas. Stockholm International Water Institute (SIWI), pp. 263–277.
