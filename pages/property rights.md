@@ -1,4 +1,4 @@
 - Kind of social [[institutions]] that govern management of [[natural resources]] and [[ecosystem]]s. #definition
 	- Hanna, S., Folke, C. and Mäler, K.-G. (Eds.) 1996. _Rights to Nature: Ecological, Economic, Cultural, and Political Principles of Institutions for the Environment_. Island Press, Washington D.C. #hannaRightsNatureEcological1996
 - Bundles of entitlements defining owners' rights and duties in the use of a particular resource.
-	- Hanna, S., & Munasinghe, M. (Eds.). (1995). Property rights and the environment: Social and ecological issues. Beijer International Institute of Ecological Economics and the World Bank. #hannaPropertyRightsEnvironment1995
+	- Hanna, S., & Munasinghe, M. (Eds.). (1995). _Property rights and the environment: Social and ecological issues_. Beijer International Institute of Ecological Economics and the World Bank. #hannaPropertyRightsEnvironment1995
