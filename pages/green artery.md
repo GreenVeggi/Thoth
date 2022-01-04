@@ -1,0 +1,2 @@
+- Space managing flows and access between people, activities and places as much as between animals, plants and different [[biotope]]s. The way this space is structured is decisive for connections and encounters between all these entities. #definition
+	-
