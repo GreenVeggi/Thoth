@@ -3,4 +3,4 @@
 	  https://doi.org/10.1017/S0047279411000833.
 - Reflection of a balance between an individual’s resource pool and challenges they face.
 	- Dodge, R., Daly, A., Huyton, J., & Sanders, L. (2012). _The challenge of defining wellbeing_. International Journal of Wellbeing, 2(3), 222–235. https://doi.org/10.5502/ijw10.5502/ijw.v2i310.5502/ijw.v2i3.4.
-	-
+	- Samuelsson, K., Barthel, S., Giusti, M., & Hartig, T. (2021). _Visiting nearby natural settings supported wellbeing during Sweden’s “soft-touch” pandemic restrictions_. Landscape and Urban Planning, 214, 104176. https://doi.org/10.1016/j.landurbplan.2021.104176. #samuelssonVisitingNearbyNatural2021
