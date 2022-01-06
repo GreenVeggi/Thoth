@@ -1,0 +1,2 @@
+- Two or more [[discipline]]s each provide their viewpoint on a common problem from their perspectives.
+	- Giusti, M. (2021). _Ineg_
