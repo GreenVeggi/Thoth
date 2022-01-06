@@ -1,0 +1,2 @@
+- Ability of vegetation to regulate local temperatures. Capacities depend on volume and type of vegetation, as well as continuous size of vegetated areas. #definition
+	-
