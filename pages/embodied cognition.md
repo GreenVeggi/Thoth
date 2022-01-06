@@ -1,2 +1,2 @@
 - Umbrella term for many directions that have in common a far less distinct separation between, first, the mind and the body, where the body rather is seen as part of the perceiving organ and as such essential for human experience and consciousness. Second, a far less distinct separation between the human mind/body and the environment, where the environment, especially when it comes to human artefacts, actually can be conceived of as an extension of the mind/body. #definition
-	- Gibson, J.J., (1986), The ecological approach to visual perception, Psychology Press, New York, NY, USA.
+	- Gibson, J.J., (1986), The ecological approach to visual perception, Psychology Press, New York, NY, USA. #gibsonEcologicalApproachVisual1986
