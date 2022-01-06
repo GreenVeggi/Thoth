@@ -1,0 +1,2 @@
+- Disorderly, emotionally charged crowd; mobs tend to form when some event, such as a crime, a catastrophe, or a controversial action, evokes the same kind of affect and action in a substantial number of people. #definition
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
