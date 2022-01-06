@@ -1,3 +1,4 @@
 - View that recognises that a complete explanation of [[group]] processes and phenomena requires multiple levels of analysis, including individual (micro), group (meso), and organisational or societal (macro) level.
 	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
-- Hierarchical framework for analysing innovation in sociotechnical systems.
+- Hierarchical [[framework]] for analysing innovation in sociotechnical [[system]]s.
+	- Clark, W. C., & Harley, A. G. (2020). _Sustainability Science: Toward a Synthesis_. Annual Review of Environment and Resources, 45(1), 331–386. https://doi.org/10.1146/annurev-environ-012420-043621. #clarkSustainabilityScienceSynthesis2020
