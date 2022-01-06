@@ -1,0 +1,2 @@
+- Wants, needs, and other psychological processes that energise [[behaviour]] and thereby determine its form, intensity, and duration.
+	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
