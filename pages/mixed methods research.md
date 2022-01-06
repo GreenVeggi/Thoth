@@ -1,1 +1,3 @@
-- Approach to inquiry that combines or integrates both qualitative and quantitative forms of research. It involves philosophical assumptions, the use of qualitative and quantitative approaches, and the mixing or integrating of both approaches in a study.
+- Approach to inquiry that combines or integrates both qualitative and quantitative forms of research. It involves philosophical assumptions, the use of qualitative and quantitative approaches, and the mixing or integrating of both approaches in a study. #definition
+	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE. #creswellResearchDesignQualitative2018
+-
