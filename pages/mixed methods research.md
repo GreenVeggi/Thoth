@@ -1,0 +1,1 @@
+- Approach to inquiry that combines or integrates both qualitative and quantitative forms of research. It involves philosophical assumptions, the use of qualitative and quantitative approaches, and the mixing or integrating of both approaches in a study.
