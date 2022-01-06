@@ -1,2 +1,3 @@
 - Knowledge of form. #definition
-	- Berghauser Pont, M., & Haupt, P. (2005). The Spacemate: Density and the typomorphology of the urban fabric. Nordic Journal of Architectural Research, 4, 55–68.
+	- Berghauser Pont, M., & Haupt, P. (2005). _The Spacemate: Density and the typomorphology of the urban fabric_. Nordic Journal of Architectural Research, 4, 55–68. #bergauserpontSpacemateDensityTypomorphology2005
+	- [[social morphology]]
