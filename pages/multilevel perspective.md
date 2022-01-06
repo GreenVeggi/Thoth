@@ -1,2 +1,3 @@
 - View that recognises that a complete explanation of [[group]] processes and phenomena requires multiple levels of analysis, including individual (micro), group (meso), and organisational or societal (macro) level.
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
+	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
+- Hierarchical framework for analysing innovation in sociotechnical systems.
