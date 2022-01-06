@@ -1,0 +1,1 @@
+- Variable]]s in [[quantitative research]] that moderate the effect of independent variables in a study. They are variables created by the researcher who takes one independent variable times another (typically a demographic variable) to construct a new independent variable.
