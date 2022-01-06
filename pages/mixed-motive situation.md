@@ -1,0 +1,2 @@
+- Performance setting in which the interdependence among interactants involves both competitive and cooperative goal structures. #definition
+	-
