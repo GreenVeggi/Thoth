@@ -1,0 +1,2 @@
+- Evolution of form.
+	- Berghauser Pont, M., & Haupt, P. (2005). _The Spacemate: Density and the typomorphology of the urban fabric_. Nordic Journal of Architectural Research, 4, 55–68. #bergauserpontSpacemateDensityTypomorphology2005
