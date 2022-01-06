@@ -1,2 +1,3 @@
 - Two or more [[discipline]]s each provide their viewpoint on a common problem from their perspectives.
-	- Giusti, M. (2021). _Ineg_
+	- Giusti, M. (2021). _Integrated Research Forms_ (video). Högskolan i Gävle.
+- Each member is able to contribute a professional perspective on the issue. Thus the advantage of this approach is that, while the research approaches are disciplinary, the different perspectives on the issue can be gathered into one report for assessment. What divides multidisciplinarity from interdisciplinarity and transdisciplinarity is the lack of iterative research, a failure to cross disciplinary boundaries, the lack of integration in the research process, and a failure to engage non-academic stakeholders as participants in the research. In addition, multidisciplinarity may sometimes focus on the theme under investigation—rather than being problem oriented, and may or may not involve a coordinated program of research.
