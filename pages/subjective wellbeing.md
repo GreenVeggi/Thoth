@@ -1,0 +1,1 @@
+- Multi-dimensional concept that encompasses life satisfaction, momentary experiences, and sense of purpose, but which differs from objective wellbeing (fulfilment of fixed needs) and preference satisfaction (fulfilment of wants and desires).
