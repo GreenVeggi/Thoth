@@ -1,1 +1,2 @@
 - Psychological process whereby opponents in a conflict come to view each other as undeserving of morally mandated rights and protections.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
