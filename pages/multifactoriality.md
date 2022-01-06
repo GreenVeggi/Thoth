@@ -1,0 +1,2 @@
+- Ability of a [[system]] component to serve both in a control function (causing change in another component) and in a dependent function (being changed by another component).
+	- Clayton, A. M. H., & Radcliffe, N. J. (1997). _Sustainability: A systems approach_ (1. publ., reprint). Earthscan. #claytonSustainabilitySystemsApproach1997
