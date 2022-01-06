@@ -2,7 +2,6 @@
 	- Chemero, A. (2003). _An outline of a theory of affordances_. Ecological Psychology, 15(2),
 	  181–195. http://dx.doi.org/10.1207/S15326969ECO1502_5.
 - Only emerge when different characteristics of the individual, such as her physical abilities, emotions and intentions, are matched in meaningful relations with environment features.
-	- Withagen, R., de Poel, H. J., Araújo, D., & Pepping, G.-J. (2012). _Affordances can invite behavior: Reconsidering the relationship between affordances and agency_. New Ideas in Psychology, 30(2), 250–258. http://dx.doi.org/10.1016/j.newideapsych.2011.12.
-	  003.
-- Opportunities or restrictions for behaviour, but there has been a growing understanding of affordances in urban environments as also including opportunities or restrictions related to experiences, and development of environmental attitudes.
-	- Samuelsson, K., Giusti, M., Peterson, G. D., Legeby, A., Brandt, S. A., & Barthel, S. (2018). Impact of environment on people’s everyday experiences in Stockholm. Landscape and Urban Planning, 171, 7–17. https://doi.org/10.1016/j.landurbplan.2017.11.009
+	- Withagen, R., de Poel, H. J., Araújo, D., & Pepping, G.-J. (2012). _Affordances can invite behavior: Reconsidering the relationship between affordances and agency_. New Ideas in Psychology, 30(2), 250–258. http://dx.doi.org/10.1016/j.newideapsych.2011.12.003.
+- Opportunities or restrictions for [[behaviour]], but there has been a growing understanding of affordances in urban environments as also including opportunities or restrictions related to experiences, and development of environmental attitudes.
+	- Samuelsson, K., Giusti, M., Peterson, G. D., Legeby, A., Brandt, S. A., & Barthel, S. (2018). _Impact of environment on people’s everyday experiences in Stockholm_. Landscape and Urban Planning, 171, 7–17. https://doi.org/10.1016/j.landurbplan.2017.11.009 #samuelssonImpactEnvironmentPeople2018
