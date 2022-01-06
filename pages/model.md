@@ -1,0 +1,2 @@
+- Descriptive intellectual construct. #definition
+	- Clayton, A. M. H., & Radcliffe, N. J. (1997). _Sustainability: A systems approach_ (1. publ., reprint). Earthscan. #claytonSustainabilitySystemsApproach1997
