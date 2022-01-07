@@ -1,1 +1,3 @@
-- ]] that describes the intensity of use of non-built ground; if the population of all the buildings in an area goes out at a given moment, how much room would there be for them in the streets and other non-built ground?
+- [[variable]] that describes the intensity of use of non-built ground; if the population of all the buildings in an area goes out at a given moment, how much room would there be for them in the streets and other non-built ground?
+	- Berghauser Pont, M., & Haupt, P. (2005). _The Spacemate: Density and the typomorphology of the urban fabric_. Nordic Journal of Architectural Research, 4, 55–68. #bergauserpontSpacemateDensityTypomorphology2005
+-
