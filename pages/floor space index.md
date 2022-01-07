@@ -1,1 +1,5 @@
-- [[variable]] denoting the ratio
+- [[variable]] denoting the ratio of floor space and ground area.
+	- Berghauser Pont, M., & Haupt, P. (2005). _The Spacemate: Density and the typomorphology of the urban fabric_. Nordic Journal of Architectural Research, 4, 55–68. #bergauserpontSpacemateDensityTypomorphology2005
+- [[open space ratio]]
+- [[layer]]
+- [[ground space index]]
