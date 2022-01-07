@@ -1,0 +1,2 @@
+- Relations between spaces: the simultaneously existing relationships among the parts that make up the whole.
+	- Legeby, A., & Marcus, L. (2011). _Does the Urban Structure of Swedish Cities Inhibit the Sharing of Public Space?_ Built Environment (1978-), 37(2), 155–169. #legebyDoesUrbanStructure2011
