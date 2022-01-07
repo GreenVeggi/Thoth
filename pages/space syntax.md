@@ -1,0 +1,2 @@
+- Set of theories and non-discursive techniques that address spatial relationships.
+	-
