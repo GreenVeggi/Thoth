@@ -1,2 +1,4 @@
 - Things that come from nature and are unchanged by human hands, such as sun light, forest, minerals, animals, plants, air, oil, water, and soil.
 	- Clark, W. C., & Harley, A. G. (2020). _Sustainability Science: Toward a Synthesis_. Annual Review of Environment and Resources, 45(1), 331–386. https://doi.org/10.1146/annurev-environ-012420-043621. #sustainabilityScienceAndSystemsTheory
+- Resources that exist without any actions of humankind.
+	-
