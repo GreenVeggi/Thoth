@@ -1,0 +1,2 @@
+- Publicly accessible urban space, such as streets, paths, parks, and squares.
+	-
