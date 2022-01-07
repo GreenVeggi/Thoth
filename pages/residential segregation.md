@@ -1,0 +1,2 @@
+- Differences according to, for example, demographic, ethnical, or economic segregation in different parts of the city based on where people live.
+	-
