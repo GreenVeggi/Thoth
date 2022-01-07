@@ -1,2 +1,2 @@
 - Differences according to, for example, demographic, ethnical, or economic segregation in different parts of the city based on where people live.
-	-
+	- Legeby, A. (2018). Everyday Urban Life at Neighbourhood Centres: Urban Design and Co-Presence. In A. E. Toft & M. Rönn, The production of knowledge in architecture by PHD research in the Nordic Countries. Nordic Academic Press of Architectural Research. legebyEverydayUrbanLife2018
