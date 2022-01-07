@@ -1,0 +1,1 @@
+- Things that come from nature and are unchanged by human hands, such as sun light, forest, minerals, animals, plants, air
