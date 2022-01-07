@@ -1,0 +1,4 @@
+- [[variable]] that indicates the average number of floors in an area.
+	- Berghauser Pont, M., & Haupt, P. (2005). The Spacemate: Density and the typomorphology of the urban fabric. Nordic Journal of Architectural Research, 4, 55–68. #bergauserpontSpacemateDensityTypomorphology2005
+- [[ground space index]]
+-
