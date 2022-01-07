@@ -1,0 +1,1 @@
+- ]] that describes the intensity of use of non-built ground; if the population of all the buildings in an area goes out at a given moment, how much room would there be for them in the streets and other non-built ground?
