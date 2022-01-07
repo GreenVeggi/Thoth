@@ -1,2 +1,2 @@
-- Performance setting in which the interdependence among interactants involves both competitive and cooperative goal structures. #definition
+- Performance setting in which the interdependence among interactants involves both competitive and cooperative goal structures.
 	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
