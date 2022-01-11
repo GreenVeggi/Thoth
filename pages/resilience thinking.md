@@ -1,1 +1,2 @@
-- Way of looking at the world and seeing systems, linkages, thresholds, cycles, and things that are important to us and the things that drive them. It is about embracing change, as ooposed to striving for constancy.
+- Way of looking at the world and seeing [[system]]s, linkages, thresholds, cycles, and things that are important to us and the things that drive them. It is about embracing change, as opposed to striving for constancy.
+	- Walker, B. H., & Salt, D. (2006). _Resilience Thinking: Sustaining Ecosystems and People in a Changing World_. Island Press. #walkerResilienceThinkingSustaining2006
