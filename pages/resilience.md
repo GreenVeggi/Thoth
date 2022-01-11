@@ -15,4 +15,5 @@
 - Ability of a [[social-ecological system]] to buffer change and/or disturbance.
 	- Colding, J. (14-12-2021). Lecture: _History of Social-Ecological Systems_. Högskolan i Gävle (Zoom). #coldingHistorySocialecologicalSystems2021
 - Capacity to recover after disturbance, absorb stress and change, internalise it, and transcend it.
-	-
+	- Berkes, F., Colding, J., & Folke, C. (2000). _Rediscovery of traditional ecological knowledge as adaptive management_. Ecological Applications, 10(5), 1251–1262. https://doi.org/10.1890/1051-0761(2000)010[1251:ROTEKA]2.0.CO;2.
+	    #berkesRediscoveryTraditionalEcological2000
