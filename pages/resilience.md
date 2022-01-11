@@ -12,4 +12,5 @@
 	- Hanna, S., & Munasinghe, M. (Eds.). (1995). _Property rights and the environment: Social and ecological issues_. Beijer International Institute of Ecological Economics and the World Bank. #hannaPropertyRightsEnvironment1995
 - Capacity of a [[system]] to absorb stress, to continue to develop, and to change without a loss of essential structure, function, identity, and [[feedback]].
 	- McPhearson, T., Pickett, S. T. A., Grimm, N. B., Niemelä, J., Alberti, M., Elmqvist, T., Weber, C., Haase, D., Breuste, J., & Qureshi, S. (2016). _Advancing Urban Ecology toward a Science of Cities_. BioScience, 66(3), 198–212. https://doi.org/10.1093/biosci/biw002. #mcphearsonAdvancingUrbanEcology2016
-	-
+- Ability of a [[social-ecological system]] to buffer change and/or disturbance.
+	- Colding, J. (14-12-2021). Lecture: _History of Social-Ecological Systems_. Högskolan i
