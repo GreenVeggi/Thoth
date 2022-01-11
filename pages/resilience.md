@@ -14,3 +14,5 @@
 	- McPhearson, T., Pickett, S. T. A., Grimm, N. B., Niemelä, J., Alberti, M., Elmqvist, T., Weber, C., Haase, D., Breuste, J., & Qureshi, S. (2016). _Advancing Urban Ecology toward a Science of Cities_. BioScience, 66(3), 198–212. https://doi.org/10.1093/biosci/biw002. #mcphearsonAdvancingUrbanEcology2016
 - Ability of a [[social-ecological system]] to buffer change and/or disturbance.
 	- Colding, J. (14-12-2021). Lecture: _History of Social-Ecological Systems_. Högskolan i Gävle (Zoom). #coldingHistorySocialecologicalSystems2021
+- Capacity to recover after disturbance, absorb stress and change, internalise it, and transcend it.
+	-
