@@ -1,0 +1,2 @@
+- Any engineered works, such as dikes, irrigation canals, _et cetera_.
+	- Anderies, J. M., M. A. Janssen, and E. Ostrom. 2004. A framework to analyze the robustness of social-ecological systems from an institutional perspective. Ecology and Society 9(1):18. http://dx.doi.org/10.5751/ES-00610-090118 #
