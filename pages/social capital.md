@@ -1,2 +1,4 @@
-- Measure of the ability of people to work together for common purposes in [[group]]s and organisations. A key element of social capital is the sense of mutual trust. #definition
+- Measure of the ability of people to work together for common purposes in [[group]]s and organisations. A key element of social capital is the sense of mutual trust.
 	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
+- Rules used by those governing, managing, and using the [[system]] including monitoring and enforcement of these rules.
+	- Anderies, J. M., M. A. Janssen, and E. Ostrom. 2004. _A framework to analyze the robustness of social-ecological systems from an institutional perspective_. Ecology and Society 9(1):18. http://dx.doi.org/10.5751/ES-00610-090118 #anderies2004FrameworkRobustnessSocialecological
