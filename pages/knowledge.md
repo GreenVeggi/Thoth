@@ -1,2 +1,2 @@
 - Systematised information and experiences.
-	- Colding, J. (16-12-2021). Lecture _Resilience Management of Natural _
+	- Colding, J. (16-12-2021). Lecture _Resilience Management of Natural Resources and Ecosystems_. Högskolan i Gävle (Zoom). #coldingResilienceManagementNaturallec2021
