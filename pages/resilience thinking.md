@@ -1,0 +1,1 @@
+- Way of looking at the world and seeing systems, linkages, thresholds, cycles, and things that are important to us and the things that drive them. It is about embracing change, as ooposed to striving for constancy.
