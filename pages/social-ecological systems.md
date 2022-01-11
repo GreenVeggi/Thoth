@@ -4,7 +4,7 @@
 - [[system]] of people and nature.
 	- C. R. Thomas, I. J. Gordon, S. Wooldridge & P. Marshall (2012) Balancing the Tradeoffs between Ecological and Economic Risks for the Great Barrier Reef: A Pragmatic Conceptual Framework, Human and Ecological Risk Assessment: An International Journal, 18:1, 69-91, DOI: 10.1080/10807039.2012.631470 #thomasBalancingTradeoffsEcological2012
 - [[system]] where social and ecological systems are mutually dependent.
-	- Maryann Fidel, Andrew Kliskey, Lilian Alessa & Olga (Olia) P. Sutton (2014) Walrus harvest locations reflect [[adaptation]]: a contribution from a community-based observation network in the Bering Sea, Polar Geography, 37:1, 48-68, DOI: 10.1080/1088937X.2013.879613 #fidelWalrusHarvestLocations2014
+	- Maryann Fidel, Andrew Kliskey, Lilian Alessa & Olga (Olia) P. Sutton (2014) _Walrus harvest locations reflect [[adaptation]]: a contribution from a community-based observation network in the Bering_ Sea, Polar Geography, 37:1, 48-68, DOI: 10.1080/1088937X.2013.879613 #fidelWalrusHarvestLocations2014
 - Interdependent and linked systems of people and nature that are nested across scales.
 	- Bouamrane, M., Spierenburg, M., Agrawal, A., Boureima, A., Cormier-Salem, M.-C., Etienne, M., Le Page, C., Levrel, H., & Mathevet, R. (2016). Stakeholder engagement and biodiversity conservation challenges in social-ecological systems: some insights from biosphere reserves in western Africa and France. Ecology and Society, 21(4). http://www.jstor.org/stable/26270009 #bouamraneStakeholderEngagementBiodiversity2016
 - System that includes societal (human) and ecological (biophysical) subsystems in mutual interactions.
