@@ -1,0 +1,2 @@
+- Systematised information and experiences.
+	- Colding, J. (16-12-2021). Lecture _Resilience Management of Natural _
