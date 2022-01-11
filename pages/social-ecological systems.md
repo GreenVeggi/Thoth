@@ -1,4 +1,4 @@
-- [[system]] consisting of two interacting subsystems: the biological (epidemiological [[ecosystem]]) and the social (social and economic conditions of life of the society) subsystems where the biological [[subsystem]] plays the [[role]] of the governed object and the social acts as the internal regulator of these interactions. #definition
+- [[system]] consisting of two interacting [[subsystem]]s: the biological (epidemiological [[ecosystem]]) and the social (social and economic conditions of life of the society) subsystems where the biological [[subsystem]] plays the [[role]] of the governed object and the social acts as the internal regulator of these interactions.
 	- Cherkasskii B. L. (1988). The system of the epidemic process. Journal of hygiene, epidemiology, microbiology, and immunology, 32(3), 321–328. 
 	  #cherkasskiiSystemEpidemicProcess1988
 - [[system]] of people and nature.
@@ -22,4 +22,5 @@
 	- the impossibility to extrapolate the information from one SES to another.
 	- del Mar Delgado-Serrano, M., Oteros-Rozas, E., Vanwildemeersch, P., Ortíz-Guerrero, C., London, S., & Escalante, R. (2015). Local perceptions on social-ecological dynamics in Latin America in three community-based natural resource management systems. Ecology and Society, 20(4). http://www.jstor.org/stable/26270288 #delgadoserranoLocalPerceptionsSocialecological2015
 - An ecological system intricately linked with and affected by one or more social systems. An ecological system can loosely be defined as an interdependent system of organisms or biological units. "Social" simply means "tending to form cooperative and interdependent relationships with others of one’s kinds". Broadly speaking, social systems can be thought of as interdependent systems of organisms. Thus, both social and ecological systems contain units that interact interdependently and each may contain interactive subsystems as well.
-	- Anderies, J. M., Janssen, M. A., & Ostrom, E. (2004). A Framework to Analyze the Robustness of Social-ecological Systems from an Institutional Perspective. Ecology and Society, 9(1). http://www.jstor.org/stable/26267655 #anderiesFrameworkRobustnessSocialecological2004
+	- Anderies, J. M., Janssen, M. A., & Ostrom, E. (2004). _A Framework to Analyze the Robustness of Social-ecological Systems from an Institutional Perspective_. Ecology and Society, 9(1). http://www.jstor.org/stable/26267655 #anderiesFrameworkRobustnessSocialecological2004
+-
