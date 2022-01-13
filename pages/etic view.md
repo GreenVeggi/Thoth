@@ -1,2 +1,2 @@
 - Perspective of an outsider looking in.
-	- Soam, S. (2021). Lecture: _Qualitative Research Approach_. Högskolan i Gävle (Zoom). __
+	- Soam, S. (2021). Lecture: _Qualitative Research Approach_. Högskolan i Gävle (Zoom). _Philosophy of Science, Research Ethics, Quantitative and Qualitative Research_.
