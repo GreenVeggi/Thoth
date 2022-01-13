@@ -1,0 +1,4 @@
+- Ambiguous term used for
+	- property owned by government,
+	- property owned by no one,
+	- property owned by
