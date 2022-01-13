@@ -1,0 +1,1 @@
+- Explanation of distancing behaviour in interpersonal settings arguing that the amount of eye contact and the intimacy of the topic influence the amount of personal space required by group members.

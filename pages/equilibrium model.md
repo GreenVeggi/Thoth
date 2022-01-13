@@ -1,2 +1,3 @@
 - Conceptual analysis of [[group]] development that assumes the focus of a group shifts back and forth between the group’s tasks and the interpersonal relationships among group members (proposed by Robert Bales).
 	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- [[equilibrium]]
