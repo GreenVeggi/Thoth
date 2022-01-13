@@ -1,0 +1,2 @@
+- Tendency for [[group]]s to spend more time discussing information that all members know (shared information) and less time examining information that only a few members know (unshared); also: [[common knowledge effect]].
+	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
