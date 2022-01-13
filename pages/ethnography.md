@@ -1,1 +1,2 @@
-- Qualitative strategy in which the researcher studies an intact cultural group in a natural setting over a prolonged period of time by collecting primarily observational and interview data.
+- Qualitative strategy in which the researcher studies an intact cultural [[group]] in a natural setting over a prolonged period of time by collecting primarily observational and interview data.
+	- Creswell, J. W., & Plano Clark, V. L. (2018). _Designing and conducting mixed methods research_ (Third Edition). SAGE. #creswellResearchDesignQualitative2018

@@ -1,0 +1,2 @@
+- Perspective of an outsider looking in.
+	-
