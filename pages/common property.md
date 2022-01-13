@@ -1,0 +1,1 @@
+- Owned by an identified [[group]] of people, which has the right to exclude non-owners and the duty to maintain the property through constraints placed on use. Such [[regime]]s are often implemented for [[common pool resource]]s, those which are difficult to divide or bound. Also referred to as res communes.
