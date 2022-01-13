@@ -1,0 +1,2 @@
+- When a [[system]] is in a static or dynamic stable state. A system would achieve a particular dynamic equilibrium if, for example, the flows into a stock were the same as the flows out of a stock, so that the stock level was constant even though the contents of the stock were changing.
+	-
