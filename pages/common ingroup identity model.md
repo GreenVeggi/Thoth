@@ -1,1 +1,2 @@
-- Analysis of recategorisation processes and conflict, predicting that intergroup conflict can be reduced by emphasising membership in inclusive social categories and the interdependence of the individuals in the groups (developed by Samuel Gaertner, John Dovidio, and their colleagues).
+- Analysis of recategorisation processes and #conflict, predicting that intergroup conflict can be reduced by emphasising membership in inclusive social categories and the interdependence of the individuals in the groups (developed by Samuel Gaertner, John Dovidio, and their colleagues).
+	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
