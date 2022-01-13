@@ -1,0 +1,2 @@
+- Social standard that encourages distributing rewards and resources to members in proportion to their inputs.
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage.
