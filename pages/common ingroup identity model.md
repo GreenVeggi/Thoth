@@ -1,0 +1,1 @@
+- Analysis of recategorisation processes and conflict, predicting that intergroup conflict can be reduced by emphasising membership in inclusive social categories and the interdependence of the individuals in the groups (developed by Samuel Gaertner, John Dovidio, and their colleagues).
