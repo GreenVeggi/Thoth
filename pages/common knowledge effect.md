@@ -1,0 +1,1 @@
+- Tendency for groups to spend more time discussing information that all members know (shared information) and less time examining information that only a few members know (unshared); also: shared information bias.
