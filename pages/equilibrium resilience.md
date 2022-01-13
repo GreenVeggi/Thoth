@@ -1,0 +1,2 @@
+- Stability near an equilibrium steady-state, where resistance to disturbance and speed of return to the [[equilibrium]] are used to measure [[resilience]].
+	-
