@@ -1,16 +1,7 @@
-- Story of how the world is perceived and experienced, what the world is, how it works and how humans should act in this world. Each worldview gives way to its successor because of certain inherent limitations in the earlier worldview. This generates a lot of chaos from which the [[system]] escapes by evolving to a more highly organised pattern which solves or defuses the earlier patterns. In turn, the new worldview will eventually come across its own recalcitrant problems and inherent limitations that cannot be solved at its current level, and thus trigger a new collapse into chaos and a new worldview which address these limitations. #definition
+- Story of how the world is perceived and experienced, what the world is, how it works and how humans should act in this world. Each worldview gives way to its successor because of certain inherent limitations in the earlier worldview. This generates a lot of chaos from which the [[system]] escapes by evolving to a more highly organised pattern which solves or defuses the earlier patterns. In turn, the new worldview will eventually come across its own recalcitrant problems and inherent limitations that cannot be solved at its current level, and thus trigger a new collapse into chaos and a new worldview which address these limitations.
 	- Du Plessis, C. (2021). The city sustainable, resilient, regenerative – a rose by any other name? In Designing Cities for Regeneration. Vol 5. Contemporary Urban Design Thinking. (Vol. 5). Springer.
-	  #duplessisCitySustainableResilient2021
-	- Seminar: #regenerativeSustainability
-	- Theme: #sustainabilitySolutions
-	- Métier: #sustainabilityscienceandsystemstheory
+	  #duplessisCitySustainableResilientlec2021
 - Basic set of beliefs that guide action.
 	- Guba, E. G. (Ed.). (1990). The paradigm dialog. Sage Publications, Inc. #gubaAlternativeParadigmDialog1990
-	- Seminar: #introduction
-	- Theme: #quantitativeMethods
-	- Métier: #philosophyOfSchienceResearchEthicsQuantitativeAndQualitativeResearchMethods
-- General philosophical orientation about the world and the nature of research that a researcher brings to a study.
+- General philosophical orientation about the world and the [[nature]] of research that a researcher brings to a study.
 	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE. #creswellResearchDesignQualitative2018
-	- Seminar: #introduction
-	- Theme: #quantitativeMethods
-	- Métier: #philosophyOfSchienceResearchEthicsQuantitativeAndQualitativeResearchMethods
