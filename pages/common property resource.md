@@ -1,4 +1,6 @@
 - Ambiguous term used for
 	- property owned by government,
 	- property owned by no one,
-	- property owned by
+	- property owned and defended by a community of resource users.
+	- Also used to refer to [[common pool resource]] used by multiple individuals regardless of the type of [[property rights]] involved.
+	-
