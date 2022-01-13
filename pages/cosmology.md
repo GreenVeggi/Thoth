@@ -1,2 +1,2 @@
 - Basic beliefs pertaining to religion and ethics, and structures observations that produce knowledge and understanding. Also: [[worldview]].
-	- Berkes, F., Colding, J., & Folke, C. (2000). Rediscovery of traditional ecological knowledge as adaptive management. Ecological Applications, 10(5), 1251–1262. https://doi.org/10.1890/1051-0761(2000)010[1251:ROTEKA]2.0.CO;2
+	- Berkes, F., Colding, J., & Folke, C. (2000). _Rediscovery of traditional ecological knowledge as adaptive management_. Ecological Applications, 10(5), 1251–1262. https://doi.org/10.1890/1051-0761(2000)010[1251:ROTEKA]2.0.CO;2 #berkesRediscoveryTraditionalEcological2000
