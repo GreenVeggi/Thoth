@@ -1,2 +1,2 @@
 - Decline in the resource base supporting a [[system]]. This can occur inside a positive [[feedback]] loop, which means that the erosion itself makes a further erosion more likely to occur.
-	- Clayton, A. M. H., & Radcliffe, N. J. (1997). Sustainability: A systems approach (1. publ., reprint). Earthscan.
+	- Clayton, A. M. H., & Radcliffe, N. J. (1997). Sustainability: A systems approach (1. publ., reprint). Earthscan. #claytonSustainabilitySystemsApproach1997
