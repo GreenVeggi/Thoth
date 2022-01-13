@@ -3,4 +3,4 @@
 	- property owned by no one,
 	- property owned and defended by a community of resource users.
 	- Also used to refer to [[common pool resource]] used by multiple individuals regardless of the type of [[property rights]] involved.
-	-
+	- Schlager, E., & Ostrom, E. (1992). *Property-Rights Regimes and Natural Resources: A Conceptual Analysis*. Land Economics, 68(3), 249–262. https://doi.org/10.2307/3146375. #schlager1992PropertyrightsRegimesNatural
