@@ -1,2 +1,2 @@
 - Arrangements by which any collectivity, from the local to the global, seeks to manage its common affairs.
-	-
+	- Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. Annual Review of Environment and Resources, 45(1), 331–386. https://doi.org/10.1146/annurev-environ-012420-043621 #clarkSustainabilityScienceSynthesis2020
