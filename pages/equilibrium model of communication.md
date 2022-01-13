@@ -1,1 +1,3 @@
-- Explanation of distancing behaviour in interpersonal settings arguing that the amount of eye contact and the intimacy of the topic influence the amount of personal space required by group members.
+- Explanation of distancing [[behaviour]] in interpersonal settings arguing that the amount of eye contact and the intimacy of the topic influence the amount of personal space required by [[group]] members.
+	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019
+	- [[equilibrium]], [[equilibrium model]]
