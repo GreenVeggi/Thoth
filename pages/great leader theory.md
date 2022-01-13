@@ -1,2 +1,2 @@
 - View of [[leadership]], attributed to historian Thomas Carlyle, which states that successful leaders possess certain characteristics that mark them for greatness and that such great leaders shape the course of history.
-	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage
+	- Forsyth, D. R. (2019). Group dynamics (Seventh edition). Cengage. #forsythGroupDynamics2019
