@@ -1,2 +1,2 @@
 - Stability near an equilibrium steady-state, where resistance to disturbance and speed of return to the [[equilibrium]] are used to measure [[resilience]].
-	-
+	- Holling, C. S., & Meffe, G. K. (1996). _Command and Control and the Pathology of Natural Resource Management._ Conservation Biology, 10(2), 328–337. #hollingCommandControlPathology1996
