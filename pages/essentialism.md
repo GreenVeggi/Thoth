@@ -1,0 +1,2 @@
+- Belief that all things, including individuals and [[group]]s, have a basic nature that makes them what they are and distinguishes them from other things; a thing’s essence is usually inferred rather than directly observed and is generally assumed to be relatively unchanging.
+	- Forsyth, D. R. (2019). _Group dynamics_ (Seventh edition). Cengage. #forsythGroupDynamics2019

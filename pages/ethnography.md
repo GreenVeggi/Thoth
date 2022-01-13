@@ -1,0 +1,1 @@
+- Qualitative strategy in which the researcher studies an intact cultural group in a natural setting over a prolonged period of time by collecting primarily observational and interview data.
