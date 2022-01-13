@@ -1,0 +1,2 @@
+- Arrangements by which any collectivity, from the local to the global, seeks to manage its common affairs.
+	-
