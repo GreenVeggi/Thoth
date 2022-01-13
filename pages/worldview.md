@@ -5,4 +5,5 @@
 	- Guba, E. G. (Ed.). (1990). The paradigm dialog. Sage Publications, Inc. #gubaAlternativeParadigmDialog1990
 - General philosophical orientation about the world and the [[nature]] of research that a researcher brings to a study.
 	- Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (Third Edition). SAGE. #creswellResearchDesignQualitative2018
-- Basic beliefs pertaining to religion and ethics, and structures observations that produce knowledge and understanding. Also: cosmology.
+- Basic beliefs pertaining to religion and ethics, and structures observations that produce knowledge and understanding. Also: [[cosmology]].
+	- Berkes, F., Colding, J., & Folke, C. (2000). _Rediscovery of traditional ecological knowledge as adaptive management_. Ecological Applications, 10(5), 1251–1262. https://doi.org/10.1890/1051-0761(2000)010[1251:ROTEKA]2.0.CO;2
