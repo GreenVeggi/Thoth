@@ -1,0 +1,1 @@
+- Full spatial environment anywhere within which an entering person becomes a member of the [[gathering]].
