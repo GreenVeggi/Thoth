@@ -1,1 +1,2 @@
 - Full spatial environment anywhere within which an entering person becomes a member of the [[gathering]].
+	- Goffman, E. (1963), _Behaviour in public spaces_, New York: The Free Press. #goffmanBehaviourPublicSpaces1963
