@@ -1,0 +1,2 @@
+- In [[space syntax]] theory, co-presence [[group]] of people who may not know each other, or even acknowledge each other, who appear in spaces that they share and use. Co-present people are not a community, but they are said to be the raw material for the creation of a community, which may in due course become activated, and can be activated if it becomes necessary.
+	- Hillier, B. (1996, 2007), Space is the Machine: A Configurational Theory of Architecture. Space Syntax: London, UK. pp.141.
