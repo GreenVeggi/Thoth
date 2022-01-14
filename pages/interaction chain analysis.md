@@ -1,2 +1,2 @@
 - [[interaction chain]] analysis is a microsociological theory that places everyday social interactions at the centre of analysis.
-	-
+	- Clarke, J. M., & Waring, J. (2018). _The transformative role of interaction rituals within therapeutic communities_. Sociology of health & illness, 40(8), 1277-1293. #clarkeTransformativeRoleInteraction2018
