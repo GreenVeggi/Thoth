@@ -1,2 +1,2 @@
 - Shared emotional and cognitive experience.
-	- Marcus, L. (2015, July 15). Interaction rituals and co-presence – linking humans to humans in space syntax theory.
+	- Marcus, L. (2015, July 15). _Interaction rituals and co-presence – linking humans to humans in space syntax theory_. #marcusLinkingHumansSpace2015
