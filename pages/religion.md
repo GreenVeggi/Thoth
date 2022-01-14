@@ -1,1 +1,2 @@
 - Unified system of beliefs and practices relative to sacred things, that is to say, things set apart and surrounded by prohibitions - beliefs and practices that unites it adherents in a single moral community called a church.
+	- Durkheim, E. (1912), T_he elementary forms of religious life_, Oxford. Reproduced in 2001. #durkheimElementaryFormsReligious1912/2001
