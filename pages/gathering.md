@@ -1,0 +1,2 @@
+- Any set of two or more individuals whose members include all and only those who are at the moment in one another's immediate presence.
+	- Goffman, E. ()
