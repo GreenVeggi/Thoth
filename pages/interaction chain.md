@@ -1,4 +1,2 @@
 - j
-- CollinsInteraction ritual chains and collective effervescence
-  In: Christian von Scheve, Mikko Salmela (Eds.), Collective Emotions, 299-311 - January 2014
-  https://doi.org/10.1093/acprof:oso/9780199659180.003.0020
+	- Collins, R. (2014). _Interaction ritual chains and collective effervescence_. In: Christian von Scheve, Mikko Salmela (Eds.), _Collective Emotions_, 299-311 - January 2014. https://doi.org/10.1093/acprof:oso/9780199659180.003.0020
