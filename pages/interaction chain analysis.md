@@ -1,0 +1,2 @@
+- [[interaction chain]] analysis is a microsociological theory that places everyday social interactions at the centre of analysis.
+	-
