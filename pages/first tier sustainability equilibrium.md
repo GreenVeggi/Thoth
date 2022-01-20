@@ -1,0 +1,2 @@
+- Depiction of the interactions of three dimensions: economic, environmental, and social.
+	- Lozano, R. (2012). _Towards better embedding sustainability into companies’ systems: An analysis of voluntary corporate initiatives_. Journal of Cleaner Production, 25, 14–26. https://doi.org/10.1016/j.jclepro.2011.11.060. #lozanoBetterEmbeddingSustainability2012

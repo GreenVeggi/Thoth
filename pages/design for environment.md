@@ -1,3 +1,5 @@
 - [[system]]atic consideration of [[design]] performance with respect to environmental, health, and safety objectives over the foil product and process life cycle. #definition
 	- Fiksel, J. (ed.)(1996): Design for the Environment: Creating Eco-Efficient Products and Processes,
 	  McGraw-Hill, New York. #fikselDesignEnvironmentEcoefficient1996
+- Inclusion of environmental factors and considerations (such as material elimination or substitution, process optimisation, energy reduction, and product reuse) in the design of the product or service, so that it becomes easier to recover, reuse, or recycle. Also called [[ecodesign]].
+	- Lozano, R. (2012). _Towards better embedding sustainability into companies’ systems: An analysis of voluntary corporate initiatives_. Journal of Cleaner Production, 25, 14–26. https://doi.org/10.1016/j.jclepro.2011.11.060. #lozanoBetterEmbeddingSustainability2012

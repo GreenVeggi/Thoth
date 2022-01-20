@@ -1,2 +1,4 @@
 - Discipline which focuses on the design, development, operation, renewal, and decommissioning of industrial facilities as ecological [[system]]s, with an emphasis on the optimisation of resource efficiency. #definition
 	- Elkington, J. (1998). Cannibals with forks: The triple bottom line of 21st century business. New Society Publishers. #elkingtonCannibalsForksTriple1998
+- Restructuring of industry in the form of an [[ecosystem]] with materials (including raw materials and wastes) flowing through interconnections of production processes.
+	- Lozano, R. (2012). _Towards better embedding sustainability into companies’ systems: An analysis of voluntary corporate initiatives_. Journal of Cleaner Production, 25, 14–26. https://doi.org/10.1016/j.jclepro.2011.11.060. #lozanoBetterEmbeddingSustainability2012
