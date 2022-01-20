@@ -1,0 +1,2 @@
+- Concept where corporations have social rights and responsibilities to their stakeholders that are beyond wealth maximisation. This includes compliance with laws and regulations, ethical [[behaviour]], and contributions to social and economic welfare.
+	- Lozano, R. (2012). _Towards better embedding sustainability into companies’ systems: An analysis of voluntary corporate initiatives_. Journal of Cleaner Production, 25, 14–26. https://doi.org/10.1016/j.jclepro.2011.11.060. #lozanoBetterEmbeddingSustainability2012
